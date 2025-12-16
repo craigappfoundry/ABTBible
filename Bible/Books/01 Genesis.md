@@ -41,10 +41,10 @@
 **<sup>18</sup>** Then the Lord God said, "It is not good for the man to be alone; I will make a helper suitable for him." **<sup>19</sup>** The Lord God formed every beast of the field and every bird of the sky out of the ground, and He brought them to the man to see what he would call them. Whatever the man called each living creature, that was its name. **<sup>20</sup>** The man gave names to all the livestock, to the birds of the sky, and to every beast of the field, but for Adam, no suitable helper was found.
 
 **<sup>21</sup>** So the Lord God caused a deep sleep to fall upon the man, and while he slept, He took one of his ribs and closed up the place with flesh. **<sup>22</sup>** Then the Lord God fashioned the rib He had taken from the man into a woman and brought her to him.
-**<sup>23</sup>** The man said,
-&nbsp;&nbsp;&nbsp;&nbsp;"This one, at last, is bone of my bones
-&nbsp;&nbsp;&nbsp;&nbsp;and flesh of my flesh;
-&nbsp;&nbsp;&nbsp;&nbsp;she shall be called Woman,
+**<sup>23</sup>** The man said,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;"This one, at last, is bone of my bones<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and flesh of my flesh;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;she shall be called Woman,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;for she was taken out of Man."
 
 **<sup>24</sup>** For this reason, a man shall leave his father and mother and be joined to his wife, and they shall become one flesh. **<sup>25</sup>** And the man and his wife were both naked, yet they felt no shame.
@@ -69,34 +69,34 @@
 
 **<sup>13</sup>** Then the Lord God said to the woman, "What is this you have done?" The woman answered, "The serpent deceived me, and I ate."
 
-**<sup>14</sup>** So the Lord God said to the serpent, "Because you have done this,
-&nbsp;&nbsp;&nbsp;&nbsp;you are cursed more than all livestock
-&nbsp;&nbsp;&nbsp;&nbsp;and more than any wild animal.
-&nbsp;&nbsp;&nbsp;&nbsp;You will crawl on your belly
+**<sup>14</sup>** So the Lord God said to the serpent, "Because you have done this,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;you are cursed more than all livestock<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and more than any wild animal.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;You will crawl on your belly<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and eat dust all the days of your life.
 
-**<sup>15</sup>** I will put hostility between you and the woman,
-&nbsp;&nbsp;&nbsp;&nbsp;and between your offspring and her offspring.
-&nbsp;&nbsp;&nbsp;&nbsp;He will strike your head,
+**<sup>15</sup>** I will put hostility between you and the woman,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and between your offspring and her offspring.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;He will strike your head,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and you will strike his heel."
 
-**<sup>16</sup>** To the woman He said,
-&nbsp;&nbsp;&nbsp;&nbsp;"I will greatly increase your pain in childbirth;
-&nbsp;&nbsp;&nbsp;&nbsp;with painful labor you will give birth to children.
-&nbsp;&nbsp;&nbsp;&nbsp;Your desire will be for your husband,
+**<sup>16</sup>** To the woman He said,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;"I will greatly increase your pain in childbirth;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;with painful labor you will give birth to children.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Your desire will be for your husband,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;but he will rule over you."
 
-**<sup>17</sup>** And to Adam He said, "Because you listened to your wife and ate from the tree about which I commanded you, 'You shall not eat from it,'
-&nbsp;&nbsp;&nbsp;&nbsp;cursed is the ground because of you;
+**<sup>17</sup>** And to Adam He said, "Because you listened to your wife and ate from the tree about which I commanded you, 'You shall not eat from it,'<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;cursed is the ground because of you;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;through painful toil you will eat from it all the days of your life.
 
-**<sup>18</sup>** It will produce thorns and thistles for you,
+**<sup>18</sup>** It will produce thorns and thistles for you,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and you will eat the plants of the field.
 
-**<sup>19</sup>** By the sweat of your brow you will eat bread
-&nbsp;&nbsp;&nbsp;&nbsp;until you return to the ground,
-&nbsp;&nbsp;&nbsp;&nbsp;because from it you were taken.
-&nbsp;&nbsp;&nbsp;&nbsp;For you are dust,
+**<sup>19</sup>** By the sweat of your brow you will eat bread<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;until you return to the ground,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;because from it you were taken.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;For you are dust,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and to dust you will return."
 
 **<sup>20</sup>** The man named his wife Eve, because she was the mother of all the living.
@@ -127,12 +127,12 @@
 
 **<sup>19</sup>** Lamech took two wives for himself. The name of the first was Adah, and the name of the second was Zillah. **<sup>20</sup>** Adah bore Jabal; he was the father of those who dwell in tents and have livestock. **<sup>21</sup>** His brother's name was Jubal; he was the father of all who play the lyre and flute. **<sup>22</sup>** Zillah also bore Tubal-cain, a forger of all kinds of bronze and iron tools. Tubal-cain's sister was Naamah.
 
-**<sup>23</sup>** Then Lamech said to his wives,
-&nbsp;&nbsp;&nbsp;&nbsp;"Adah and Zillah, hear my voice!
-&nbsp;&nbsp;&nbsp;&nbsp;Wives of Lamech, listen to my speech!
-&nbsp;&nbsp;&nbsp;&nbsp;I have killed a man for wounding me,
-&nbsp;&nbsp;&nbsp;&nbsp;a young man for striking me.
-**<sup>24</sup>** If Cain is avenged sevenfold,
+**<sup>23</sup>** Then Lamech said to his wives,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;"Adah and Zillah, hear my voice!<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Wives of Lamech, listen to my speech!<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I have killed a man for wounding me,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;a young man for striking me.<br/>
+**<sup>24</sup>** If Cain is avenged sevenfold,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;then Lamech seventy-sevenfold."
 
 **<sup>25</sup>** Adam knew his wife again, and she bore a son and named him Seth, saying, "God has given me another son in place of Abel, because Cain killed him." **<sup>26</sup>** A son was also born to Seth, and he named him Enosh. At that time, men began to call on the name of the Lord.
@@ -213,8 +213,8 @@
 
 **<sup>1</sup>** Then God blessed Noah and his sons and said to them, "Be fruitful and multiply, and fill the earth. **<sup>2</sup>** The fear and dread of you will be upon every beast of the earth, every bird of the sky, everything that moves on the ground, and all the fish of the sea. They are given into your hands. **<sup>3</sup>** Every moving thing that lives shall be food for you; just as I gave you the green plants, I now give you everything. **<sup>4</sup>** But you shall not eat flesh with its lifeblood still in it. **<sup>5</sup>** And surely I will require a reckoning for your lifeblood; from every beast I will demand it, and from man as well. From his fellow man I will require the life of the man who sheds blood.
 
-**<sup>6</sup>** Whoever sheds man's blood,
-&nbsp;&nbsp;&nbsp;&nbsp;by man his blood shall be shed,
+**<sup>6</sup>** Whoever sheds man's blood,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;by man his blood shall be shed,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;for in the image of God He made man.
 
 **<sup>7</sup>** As for you, be fruitful and multiply; spread out and fill the earth."
@@ -231,8 +231,8 @@
 
 **<sup>26</sup>** He also said, "Blessed be the Lord, the God of Shem! May Canaan be his servant."
 
-**<sup>27</sup>** May God enlarge Japheth,
-&nbsp;&nbsp;&nbsp;&nbsp;and may he dwell in the tents of Shem,
+**<sup>27</sup>** May God enlarge Japheth,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and may he dwell in the tents of Shem,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and may Canaan be his servant."
 
 **<sup>28</sup>** After the flood, Noah lived 350 years. **<sup>29</sup>** All the days of Noah were 950 years, and then he died.
@@ -606,31 +606,31 @@
 **<sup>18</sup>** He went to his father and said, "My father." Isaac replied, "Here I am. Who are you, my son?" **<sup>19</sup>** Jacob said to his father, "I am Esau your firstborn. I have done as you told me. Please sit up and eat of my game, so that you may bless me." **<sup>20</sup>** But Isaac said to his son, "How did you find it so quickly, my son?" He answered, "Because the LORD your God gave me success." **<sup>21</sup>** Isaac said to Jacob, "Come near so I can touch you, my son, to know whether you are really my son Esau or not." **<sup>22</sup>** So Jacob went near to his father Isaac, who touched him and said, "The voice is the voice of Jacob, but the hands are the hands of Esau." **<sup>23</sup>** He did not recognize him because his hands were hairy like those of his brother Esau, so he blessed him. **<sup>24</sup>** He asked, "Are you really my son Esau?" He answered, "I am." **<sup>25</sup>** Then Isaac said, "Bring it to me so that I may eat of my son's game and bless you." So he brought it to him, and he ate. He also brought him wine, and he drank.
 
 **<sup>26</sup>** Then his father Isaac said to him, "Come near and kiss me, my son."
-**<sup>27</sup>** So he came near and kissed him, and Isaac smelled the scent of his garments and blessed him. He said,
-&nbsp;&nbsp;&nbsp;&nbsp;"See, the scent of my son
-&nbsp;&nbsp;&nbsp;&nbsp;is like the scent of a field
+**<sup>27</sup>** So he came near and kissed him, and Isaac smelled the scent of his garments and blessed him. He said,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;"See, the scent of my son<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;is like the scent of a field<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;that the LORD has blessed.
-**<sup>28</sup>** May God give you from the dew of the heavens
-&nbsp;&nbsp;&nbsp;&nbsp;and from the richness of the earth,
+**<sup>28</sup>** May God give you from the dew of the heavens<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and from the richness of the earth,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;an abundance of grain and new wine.
-**<sup>29</sup>** May nations serve you
-&nbsp;&nbsp;&nbsp;&nbsp;and peoples bow down to you.
-&nbsp;&nbsp;&nbsp;&nbsp;Be lord over your brothers,
-&nbsp;&nbsp;&nbsp;&nbsp;and may your mother's sons bow down to you.
-&nbsp;&nbsp;&nbsp;&nbsp;Cursed be those who curse you,
+**<sup>29</sup>** May nations serve you<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and peoples bow down to you.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Be lord over your brothers,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and may your mother's sons bow down to you.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Cursed be those who curse you,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and blessed be those who bless you."
 
 **<sup>30</sup>** Just as Isaac finished blessing Jacob and Jacob had scarcely left his father's presence, Esau his brother came in from hunting. **<sup>31</sup>** He also prepared a tasty dish and brought it to his father and said, "Let my father arise and eat of his son's game, so that you may bless me." **<sup>32</sup>** His father Isaac said to him, "Who are you?" He answered, "I am your son, your firstborn, Esau." **<sup>33</sup>** Then Isaac trembled violently and said, "Who then was it who hunted game and brought it to me? I ate it all before you came, and I blessed him—and he will certainly be blessed."
 
 **<sup>34</sup>** When Esau heard the words of his father, he cried out with a loud and bitter cry and said to his father, "Bless me—me too, my father!" **<sup>35</sup>** But Isaac said, "Your brother came deceitfully and took your blessing." **<sup>36</sup>** Esau said, "Is he not rightly named Jacob? For he has supplanted me these two times: he took my birthright, and now he has taken my blessing." Then he said, "Have you not reserved a blessing for me?" **<sup>37</sup>** Isaac answered Esau, "Look, I have made him lord over you, and I have given all his brothers to him as servants. I have sustained him with grain and wine. What then can I do for you, my son?" **<sup>38</sup>** Esau said to his father, "Do you only have one blessing, my father? Bless me—me too, my father!" And Esau lifted his voice and wept.
 
-**<sup>39</sup>** Then his father Isaac answered him and said,
-&nbsp;&nbsp;&nbsp;&nbsp;"See, your dwelling shall be
-&nbsp;&nbsp;&nbsp;&nbsp;away from the richness of the earth,
+**<sup>39</sup>** Then his father Isaac answered him and said,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;"See, your dwelling shall be<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;away from the richness of the earth,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and away from the dew of the heavens above.
-**<sup>40</sup>** You shall live by your sword,
-&nbsp;&nbsp;&nbsp;&nbsp;and you shall serve your brother.
-&nbsp;&nbsp;&nbsp;&nbsp;But when you become restless,
+**<sup>40</sup>** You shall live by your sword,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and you shall serve your brother.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;But when you become restless,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;you will break his yoke from your neck."
 
 **<sup>41</sup>** So Esau harbored hatred toward Jacob because of the blessing his father had given him. Esau said in his heart, "The days of mourning for my father are near; then I will kill my brother Jacob." **<sup>42</sup>** When the words of her older son Esau were reported to Rebekah, she sent and called her younger son Jacob and said to him, "See, your brother Esau is consoling himself by planning to kill you. **<sup>43</sup>** Now, my son, listen to me. Get up and flee to my brother Laban in Haran. **<sup>44</sup>** Stay with him for a while until your brother's anger subsides. **<sup>45</sup>** When your brother's fury turns away and he forgets what you did to him, then I will send and bring you back from there. Why should I lose both of you in one day?"
@@ -1085,10 +1085,10 @@
 
 **<sup>13</sup>** And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near to him. **<sup>14</sup>** But Israel stretched out his right hand and laid it on the head of Ephraim, who was the younger, and his left hand on the head of Manasseh—he crossed his hands, for Manasseh was the firstborn. **<sup>15</sup>** And he blessed Joseph and said,
 
-**<sup>16</sup>** the angel who has redeemed me from all evil,
-&nbsp;&nbsp;&nbsp;&nbsp;may he bless the boys;
-&nbsp;&nbsp;&nbsp;&nbsp;and may my name be named in them,
-&nbsp;&nbsp;&nbsp;&nbsp;and the name of my fathers Abraham and Isaac,
+**<sup>16</sup>** the angel who has redeemed me from all evil,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;may he bless the boys;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and may my name be named in them,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and the name of my fathers Abraham and Isaac,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and may they grow into a multitude in the midst of the earth."
 
 **<sup>17</sup>** When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him, and he took hold of his father's hand to move it from Ephraim's head to Manasseh's head. **<sup>18</sup>** And Joseph said to his father, "Not so, my father, for this one is the firstborn; put your right hand on his head." **<sup>19</sup>** But his father refused and said, "I know, my son, I know. He too shall become a people, and he too shall be great. Nevertheless, his younger brother shall be greater than he, and his descendants shall become a multitude of nations." **<sup>20</sup>** So he blessed them that day, saying,
