@@ -51,16 +51,17 @@
 ## Chapter 6
 
 
+[1] Then Solomon said, “The LORD has said that he would dwell in thick darkness, [2] and I have built a house for you, a place for You to dwell forever.”
 
-[1] Then Solomon said, “The LORD said that He would dwell in thick darkness. [2] But I have built for You a lofty house, a place for You to dwell forever.”
+[3] Then the king turned toward the assembly of Israel and blessed all the congregation, and the whole assembly stood.
 
-[3] Then the king turned his face and blessed all the assembly of Israel, and all the assembly of Israel stood. [4] And he said, “Blessed is the LORD, the God of Israel, who spoke with His mouth to my father David and has fulfilled it with His hand, saying, [5] ‘From the day I brought My nation out from the land of Egypt, I did not choose a city from all the tribes of Israel to build a house for My Name to be there, nor did I choose a man to be ruler over My nation Israel. [6] But I have chosen Jerusalem for My Name to be there, and I have chosen David to be over My nation Israel.’
+[4] He said, “Blessed be the LORD, the God of Israel, who spoke with his mouth to David my father and with his hand has fulfilled it, saying, [5] ‘From the day that I brought my people out of Egypt, I chose no city from among all the tribes of Israel in which to build a house for my name, nor did I choose just anyone to be prince over my people Israel, [6] but I chose Jerusalem that my name might be there, and I chose David to rule my people Israel.’
 
-[7] Now it was in the heart of my father David to build a house for the Name of the LORD, the God of Israel. [8] But the LORD said to my father David, ‘Whereas it was in your heart to build a house for My Name, you did well that it was in your heart. [9] Only, you shall not build the house, but your son who shall come out from your loins—he shall build the house for My Name.’
+[7] It was in the heart of David my father to build a house for the name of the LORD, the God of Israel. [8] But the LORD said to David my father: ‘Because it was in your heart to build a house for my name, you did well in having that in your heart, [9] yet you shall not build the house, but your son who will be born to you is the one who shall build the house for my name.’
 
-[10] And the LORD has fulfilled His word that He spoke, for I have risen in the place of my father David, and I sit on the throne of Israel as the LORD spoke, and I have built the house for the Name of the LORD, the God of Israel. [11] And I have set there the ark in which is the covenant of the LORD that He made with the sons of Israel.”
+[10] So the LORD has fulfilled his word that he spoke; for I have arisen in the place of David my father, and I sit on the throne of Israel, just as the LORD promised, and I have built the house for the name of the LORD, the God of Israel. [11] And I set there the ark, in which is the covenant of the LORD that he made with the sons of Israel.”
 
-[12] Then he stood before the altar of the LORD in front of all the assembly of Israel and spread out his hands. [13] For Solomon had made a bronze platform and set it in the midst of the court—five cubits long, five cubits wide, and three cubits high—and he stood on it, then knelt on his knees before all the assembly of Israel and spread out his hands toward heaven. [14] And he said, “O LORD, God of Israel, there is no god like You in heaven or on earth, keeping covenant and loyal love for Your servants who walk before You with all their heart— [15] You who have kept for Your servant David, my father, that which You spoke to him; You spoke with Your mouth and with Your hand You have fulfilled it this day.
+[12] Then Solomon stood before the altar of the Lord in the presence of all Israel, spread out his hands to heaven— [13] For Solomon had made a bronze platform and set it in the midst of the court, five cubits long, five cubits wide, and three cubits high—and he stood on it, then knelt on his knees before all the assembly of Israel and spread out his hands toward heaven. [14] And he said, “O LORD, God of Israel, there is no god like You in heaven or on earth, keeping covenant and loyal love for Your servants who walk before You with all their heart. [15] You who have kept for Your servant David, my father, that which You spoke to him; You spoke with Your mouth and with Your hand You have fulfilled it this day.
 
 [16] And now, LORD, God of Israel, keep for Your servant David, my father, that which You spoke to him, saying, ‘You shall not lack a man before Me to sit on the throne of Israel—if only your sons keep their way to walk in My law as you have walked before Me.’ [17] And now, LORD, God of Israel, let Your word that You spoke to Your servant David be confirmed.
 
@@ -81,6 +82,7 @@
 [36] When they sin against You—for there is no man who does not sin—and You are angry with them and give them to an enemy, and their captors carry them away captive to a land far or near, [37] and they take it to heart in the land where they are carried captive and turn and plead to You in the land of their captivity, saying, ‘We have sinned and acted perversely and acted wickedly,’ [38] and they return to You with all their heart and with all their soul in the land of their captivity where they were carried captive, and pray toward their land that You gave to their fathers, and toward the city that You have chosen, and toward the house that I have built for Your Name, [39] then may You hear from heaven, the place of Your dwelling, their prayer and their plea, and may You uphold their cause and forgive Your nation who have sinned against You.
 
 [40] Now, my God, let Your eyes be open and Your ears attentive to the prayer of this place. [41] And now arise, LORD God, to Your resting place, You and the ark of Your strength; let Your priests, LORD God, be clothed with salvation, and let Your loyal ones rejoice in goodness. [42] LORD God, do not turn away the face of Your anointed; remember the loyal love of Your servant David.”
+
 
 ## Chapter 7
 
