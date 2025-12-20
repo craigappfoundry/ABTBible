@@ -50,14 +50,14 @@ Chapter 2
 2 On the seventh day, God finished the work that He had done, and He rested on the seventh day from all the work that He had done.
 3 Then God blessed the seventh day and made it holy, because on it He rested from all the work of creation that He had done.
 
-4 These are the records of the heavens and the earth when they were created, in the day that the Lord God made the earth and the heavens.
-5 No shrub of the field had yet appeared on the land, and no plant of the field had yet sprouted, for the Lord God had not sent rain upon the land, and there was no man to cultivate the ground.
+4 These are the records of the heavens and the earth when they were created, in the day that the LORD God made the earth and the heavens.
+5 No shrub of the field had yet appeared on the land, and no plant of the field had yet sprouted, for the LORD God had not sent rain upon the land, and there was no man to cultivate the ground.
 6 But a mist would rise from the earth and water the entire surface of the ground.
 
-7 Then the Lord God formed the man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.
+7 Then the LORD God formed the man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.
 
-8 The Lord God planted a garden in Eden, in the east, and there He placed the man He had formed.
-9 The Lord God caused every tree that is pleasant to the sight and good for food to grow from the ground, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil.
+8 The LORD God planted a garden in Eden, in the east, and there He placed the man He had formed.
+9 The LORD God caused every tree that is pleasant to the sight and good for food to grow from the ground, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil.
 
 10 A river flowed out of Eden to water the garden, and from there it divided into four headwaters.
 11 The name of the first is Pishon; it flows around the entire land of Havilah, where there is gold.
@@ -66,15 +66,15 @@ Chapter 2
 14 The name of the third river is Tigris; it flows east of Assyria. The fourth river is the Euphrates.
 
 15 The Lord God took the man and placed him in the garden of Eden to cultivate and keep it.
-16 Then the Lord God commanded the man, saying, "You may eat freely from any tree of the garden,
+16 Then the LORD God commanded the man, saying, "You may eat freely from any tree of the garden,
 17 but you must not eat from the tree of the knowledge of good and evil, for in the day that you eat from it, you will surely die."
 
-18 Then the Lord God said, "It is not good for the man to be alone; I will make a helper suitable for him."
-19 The Lord God formed every beast of the field and every bird of the sky out of the ground, and He brought them to the man to see what he would call them. Whatever the man called each living creature, that was its name.
+18 Then the LORD God said, "It is not good for the man to be alone; I will make a helper suitable for him."
+19 The LORD God formed every beast of the field and every bird of the sky out of the ground, and He brought them to the man to see what he would call them. Whatever the man called each living creature, that was its name.
 20 The man gave names to all the livestock, to the birds of the sky, and to every beast of the field, but for Adam, no suitable helper was found.
 
-21 So the Lord God caused a deep sleep to fall upon the man, and while he slept, He took one of his ribs and closed up the place with flesh.
-22 Then the Lord God fashioned the rib He had taken from the man into a woman and brought her to him.
+21 So the LORD God caused a deep sleep to fall upon the man, and while he slept, He took one of his ribs and closed up the place with flesh.
+22 Then the LORD God fashioned the rib He had taken from the man into a woman and brought her to him.
 23 The man said,
     "This one, at last, is bone of my bones
     and flesh of my flesh;
@@ -86,7 +86,7 @@ Chapter 2
 
 Chapter 3
 
-1 Now the serpent was more cunning than any beast of the field that the Lord God had made. He said to the woman, "Did God really say, 'You shall not eat from any tree in the garden'?"
+1 Now the serpent was more cunning than any beast of the field that the LORD God had made. He said to the woman, "Did God really say, 'You shall not eat from any tree in the garden'?"
 
 2 The woman answered the serpent, "We may eat the fruit of the trees in the garden,
 3 but concerning the fruit of the tree that is in the middle of the garden, God said, 'You shall not eat from it, nor shall you touch it, lest you die.'"
@@ -97,8 +97,8 @@ Chapter 3
 6 When the woman saw that the tree was good for food, that it was appealing to the eyes, and that it was desirable for gaining wisdom, she took some of its fruit and ate. She also gave some to her husband, who was with her, and he ate.
 7 Then the eyes of both of them were opened, and they realized they were naked. So they sewed fig leaves together and made coverings for themselves.
 
-8 Then they heard the sound of the Lord God walking in the garden in the cool of the day, and the man and his wife hid themselves among the trees of the garden from the presence of the Lord God.
-9 But the Lord God called to the man and said to him, "Where are you?"
+8 Then they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves among the trees of the garden from the presence of the LORD God.
+9 But the LORD God called to the man and said to him, "Where are you?"
 
 10 He answered, "I heard Your voice in the garden, and I was afraid because I was naked, so I hid."
 
@@ -106,16 +106,15 @@ Chapter 3
 
 12 The man said, "The woman You gave to be with me—she gave me fruit from the tree, and I ate."
 
-13 Then the Lord God said to the woman, "What is this you have done?"
+13 Then the LORD God said to the woman, "What is this you have done?"
 
 The woman answered, "The serpent deceived me, and I ate."
 
-14 So the Lord God said to the serpent, "Because you have done this,
+14 So the LORD God said to the serpent, "Because you have done this,
     you are cursed more than all livestock
     and more than any wild animal.
     You will crawl on your belly
     and eat dust all the days of your life.
-
 15 I will put hostility between you and the woman,
     and between your offspring and her offspring.
     He will strike your head,
@@ -130,10 +129,8 @@ The woman answered, "The serpent deceived me, and I ate."
 17 And to Adam He said, "Because you listened to your wife and ate from the tree about which I commanded you, 'You shall not eat from it,'
     cursed is the ground because of you;
     through painful toil you will eat from it all the days of your life.
-
 18 It will produce thorns and thistles for you,
     and you will eat the plants of the field.
-
 19 By the sweat of your brow you will eat bread
     until you return to the ground,
     because from it you were taken.
@@ -142,37 +139,36 @@ The woman answered, "The serpent deceived me, and I ate."
 
 20 The man named his wife Eve, because she was the mother of all the living.
 
-21 And the Lord God made garments of animal skins for Adam and his wife and clothed them.
+21 And the LORD God made garments of animal skins for Adam and his wife and clothed them.
 
-22 Then the Lord God said, "Behold, the man has become like one of Us, knowing good and evil. Now, lest he reach out his hand and also take from the tree of life and eat, and live forever—"
-23 the Lord God sent him out of the garden of Eden to work the ground from which he had been taken.
-
+22 Then the LORD God said, "Behold, the man has become like one of Us, knowing good and evil. Now, lest he reach out his hand and also take from the tree of life and eat, and live forever—"
+23 the LORD God sent him out of the garden of Eden to work the ground from which he had been taken.
 24 He drove the man out, and at the east of the garden of Eden He stationed the cherubim and a flaming sword that turned in every direction to guard the way to the tree of life.
 
 Chapter 4
 
-1 Now the man knew his wife Eve, and she conceived and bore Cain. She said, "I have acquired a man with the help of the Lord."
+1 Now the man knew his wife Eve, and she conceived and bore Cain. She said, "I have acquired a man with the help of the LORD."
 2 Later, she gave birth to his brother Abel. Abel became a shepherd of flocks, but Cain worked the ground.
 
-3 In the course of time, Cain brought an offering to the Lord from the fruit of the ground,
-4 while Abel also brought an offering—some of the firstborn of his flock and their fat portions. The Lord looked favorably on Abel and his offering,
+3 In the course of time, Cain brought an offering to the LORD from the fruit of the ground,
+4 while Abel also brought an offering—some of the firstborn of his flock and their fat portions. The LORD looked favorably on Abel and his offering,
 5 but He did not look with favor on Cain and his offering. So Cain became very angry, and his face fell.
 
-6 Then the Lord said to Cain, "Why are you angry, and why has your face fallen?
+6 Then the LORD said to Cain, "Why are you angry, and why has your face fallen?
 7 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it."
 
 8 Cain spoke to his brother Abel, and when they were in the field, Cain rose up against his brother Abel and killed him.
-9 Then the Lord said to Cain, "Where is your brother Abel?" He answered, "I do not know. Am I my brother's keeper?"
+9 Then the LORD said to Cain, "Where is your brother Abel?" He answered, "I do not know. Am I my brother's keeper?"
 
 10 The Lord said, "What have you done? The voice of your brother's blood is crying out to Me from the ground!
 11 So now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand.
 12 When you work the ground, it will no longer yield its strength to you. You will be a restless wanderer on the earth."
 
-13 Cain said to the Lord, "My punishment is too great to bear!
+13 Cain said to the LORD, "My punishment is too great to bear!
 14 Behold, You are driving me away today from the face of the ground, and I will be hidden from Your presence. I will be a restless wanderer on the earth, and whoever finds me will kill me."
 
-15 But the Lord said to him, "Not so! If anyone kills Cain, vengeance will be taken on him sevenfold." And the Lord put a mark on Cain so that no one who found him would kill him.
-16 Then Cain went out from the Lord's presence and settled in the land of Nod, east of Eden.
+15 But the LORD said to him, "Not so! If anyone kills Cain, vengeance will be taken on him sevenfold." And the LORD put a mark on Cain so that no one who found him would kill him.
+16 Then Cain went out from the LORD's presence and settled in the land of Nod, east of Eden.
 
 17 Cain knew his wife, and she conceived and bore Enoch. Then Cain built a city and named it after his son Enoch.
 18 To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.
@@ -191,7 +187,7 @@ Chapter 4
     then Lamech seventy-sevenfold."
 
 25 Adam knew his wife again, and she bore a son and named him Seth, saying, "God has given me another son in place of Abel, because Cain killed him."
-26 A son was also born to Seth, and he named him Enosh. At that time, men began to call on the name of the Lord.
+26 A son was also born to Seth, and he named him Enosh. At that time, men began to call on the name of the LORD.
 
 Chapter 5
 
@@ -232,7 +228,7 @@ Chapter 5
 27 So all the days of Methuselah were 969 years, and he died.
 
 28 When Lamech had lived 182 years, he fathered a son.
-29 He named him Noah, saying, "This one shall comfort us in our work and the toil of our hands, because of the ground that the Lord has cursed."
+29 He named him Noah, saying, "This one shall comfort us in our work and the toil of our hands, because of the ground that the LORD has cursed."
 30 After he fathered Noah, Lamech lived 595 years and had other sons and daughters.
 31 So all the days of Lamech were 777 years, and he died.
 
@@ -242,14 +238,14 @@ Chapter 6
 
 1 When men began to multiply on the face of the earth and daughters were born to them,
 2 the sons of God saw that the daughters of men were beautiful, and they took wives for themselves from whomever they chose.
-3 Then the Lord said, "My Spirit will not contend with man forever, for he is mortal; his days shall be 120 years."
+3 Then the LORD said, "My Spirit will not contend with man forever, for he is mortal; his days shall be 120 years."
 
 4 The Nephilim were on the earth in those days—and also afterward—when the sons of God came to the daughters of men and had children by them. These were the mighty men of old, men of renown.
 
-5 The Lord saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was only evil all the time.
-6 The Lord regretted that He had made man on the earth, and He was deeply grieved in His heart.
-7 So the Lord said, "I will wipe out man, whom I have created, from the face of the earth—man and animals, creeping things, and birds of the sky—for I regret that I have made them."
-8 But Noah found favor in the eyes of the Lord.
+5 The LORD saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was only evil all the time.
+6 The LORD regretted that He had made man on the earth, and He was deeply grieved in His heart.
+7 So the LORD said, "I will wipe out man, whom I have created, from the face of the earth—man and animals, creeping things, and birds of the sky—for I regret that I have made them."
+8 But Noah found favor in the eyes of the LORD.
 
 9 This is the account of Noah. Noah was a righteous man, blameless among his generation. Noah walked with God.
 10 And Noah fathered three sons: Shem, Ham, and Japheth.
@@ -272,11 +268,11 @@ Chapter 6
 
 Chapter 7
 
-1 Then the Lord said to Noah, "Go into the ark, you and all your household, for I have seen that you are righteous before Me in this generation.
+1 Then the LORD said to Noah, "Go into the ark, you and all your household, for I have seen that you are righteous before Me in this generation.
 2 Take with you seven pairs of every clean animal, a male and its female, and one pair of every unclean animal, a male and its female,
 3 and also seven pairs of the birds of the heavens, male and female, to keep their offspring alive on the face of all the earth.
 4 For in seven days I will send rain on the earth for forty days and forty nights, and I will wipe out from the face of the earth every living thing that I have made."
-5 And Noah did all that the Lord commanded him.
+5 And Noah did all that the LORD commanded him.
 
 6 Noah was six hundred years old when the floodwaters came upon the earth.
 7 And Noah and his sons and his wife and his sons' wives went into the ark to escape the waters of the flood.
@@ -289,7 +285,7 @@ Chapter 7
 13 On that very day Noah and Shem and Ham and Japheth, the sons of Noah, and Noah's wife and the three wives of his sons entered the ark,
 14 along with every beast according to its kind, and all the livestock according to their kind, and every creeping thing that creeps on the earth according to its kind, and every bird according to its kind, every winged creature.
 15 They went into the ark with Noah, two by two of all flesh in which there was the breath of life.
-16 And those that entered, male and female of all flesh, went in as God had commanded him, and the Lord shut him in.
+16 And those that entered, male and female of all flesh, went in as God had commanded him, and the LORD shut him in.
 
 17 The flood continued for forty days upon the earth, and the waters increased and lifted up the ark, and it rose high above the earth.
 18 The waters prevailed and increased greatly upon the earth, and the ark floated on the surface of the waters.
@@ -328,8 +324,8 @@ Chapter 8
 18 So Noah came out, along with his sons, his wife, and his sons' wives.
 19 Every beast, every creeping thing, and every bird—everything that moves on the earth—came out of the ark, each according to its kind.
 
-20 Then Noah built an altar to the Lord and took some of every clean animal and every clean bird and offered burnt offerings on the altar.
-21 The Lord smelled the pleasing aroma and said in His heart, "I will never again curse the ground because of man, even though the inclination of his heart is evil from his youth. Nor will I ever again destroy every living creature as I have done.
+20 Then Noah built an altar to the LORD and took some of every clean animal and every clean bird and offered burnt offerings on the altar.
+21 The LORD smelled the pleasing aroma and said in His heart, "I will never again curse the ground because of man, even though the inclination of his heart is evil from his youth. Nor will I ever again destroy every living creature as I have done.
 
 22 As long as the earth remains, seedtime and harvest, cold and heat, summer and winter, and day and night shall not cease."
 
@@ -373,7 +369,7 @@ Chapter 9
     A servant of servants shall he be to his brothers."
 
 26 He also said,
-    "Blessed be the Lord, the God of Shem!
+    "Blessed be the LORD, the God of Shem!
     May Canaan be his servant.
 27 May God enlarge Japheth,
     and may he dwell in the tents of Shem,
@@ -394,7 +390,7 @@ Chapter 10
 6 The sons of Ham: Cush, Mizraim, Put, and Canaan.
 7 The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
 8 Cush fathered Nimrod, who was the first to be a mighty man on the earth.
-9 He was a mighty hunter before the Lord; therefore, it is said, "Like Nimrod, a mighty hunter before the Lord."
+9 He was a mighty hunter before the LORD; therefore, it is said, "Like Nimrod, a mighty hunter before the LORD."
 10 The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
 11 From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah,
 12 and Resen, which lies between Nineveh and Calah; that is the great city.
@@ -430,11 +426,11 @@ Chapter 11
 3 They said to one another, "Come, let us make bricks and bake them thoroughly." So they used brick for stone and tar for mortar.
 4 Then they said, "Come, let us build for ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered over the face of the whole earth."
 
-5 But the Lord came down to see the city and the tower that the sons of men were building.
-6 The Lord said, "Behold, they are one people with one language, and this is only the beginning of what they will do. Now nothing they propose to do will be impossible for them.
+5 But the LORD came down to see the city and the tower that the sons of men were building.
+6 The LORD said, "Behold, they are one people with one language, and this is only the beginning of what they will do. Now nothing they propose to do will be impossible for them.
 7 Come, let Us go down and confuse their language so that they will not understand one another's speech."
-8 So the Lord scattered them from there over the face of the whole earth, and they stopped building the city.
-9 Therefore, its name was called Babel, because there the Lord confused the language of the whole earth, and from there the Lord scattered them over the face of the whole earth.
+8 So the LORD scattered them from there over the face of the whole earth, and they stopped building the city.
+9 Therefore, its name was called Babel, because there the LORD confused the language of the whole earth, and from there the LORD scattered them over the face of the whole earth.
 
 10 These are the generations of Shem: Shem was 100 years old when he fathered Arpachshad two years after the flood.
 11 After he fathered Arpachshad, Shem lived 500 years and had other sons and daughters.
@@ -472,16 +468,16 @@ Chapter 11
 
 Chapter 12
 
-1 The Lord said to Abram, "Go from your land, your relatives, and your father's house to the land that I will show you.
+1 The LORD said to Abram, "Go from your land, your relatives, and your father's house to the land that I will show you.
 2 I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing.
 3 I will bless those who bless you, and I will curse those who treat you with contempt, and all the families of the earth will be blessed through you."
 
-4 So Abram went, just as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he left Haran.
+4 So Abram went, just as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he left Haran.
 5 He took his wife Sarai, his nephew Lot, all the possessions they had accumulated, and the servants they had acquired in Haran, and they set out for the land of Canaan. When they arrived in Canaan,
 6 Abram traveled through the land as far as the site of Shechem, to the oak of Moreh. The Canaanites were in the land at that time.
 
-7 Then the Lord appeared to Abram and said, "To your offspring I will give this land." So he built an altar there to the Lord, who had appeared to him.
-8 From there he moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. He built an altar to the Lord there and called on the name of the Lord.
+7 Then the LORD appeared to Abram and said, "To your offspring I will give this land." So he built an altar there to the LORD, who had appeared to him.
+8 From there he moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. He built an altar to the LORD there and called on the name of the LORD.
 9 Then Abram set out and continued toward the Negev.
 
 10 There was a famine in the land, so Abram went down to Egypt to stay there for a while, because the famine was severe in the land.
@@ -493,7 +489,7 @@ Chapter 12
 15 Pharaoh's officials saw her and praised her to Pharaoh, and the woman was taken into Pharaoh's house.
 16 He treated Abram well because of her, and Abram acquired flocks and herds, male and female donkeys, male and female servants, and camels.
 
-17 But the Lord struck Pharaoh and his household with severe plagues because of Abram's wife Sarai.
+17 But the LORD struck Pharaoh and his household with severe plagues because of Abram's wife Sarai.
 18 So Pharaoh summoned Abram and said, "What have you done to me? Why didn't you tell me she was your wife?
 19 Why did you say, 'She is my sister,' so that I took her as my wife? Now, here is your wife—take her and go!"
 20 Then Pharaoh gave his men orders concerning him, and they sent him away with his wife and all that he had.
@@ -503,7 +499,7 @@ Chapter 13
 1 So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negev.
 2 Now Abram was very rich in livestock, silver, and gold.
 3 He journeyed by stages from the Negev as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,
-4 to the place of the altar that he had made there at first. And there Abram called on the name of the Lord.
+4 to the place of the altar that he had made there at first. And there Abram called on the name of the LORD.
 
 5 Now Lot, who went with Abram, also had flocks, herds, and tents.
 6 But the land could not support them while they stayed together, for their possessions were so great that they could not dwell together.
@@ -512,17 +508,17 @@ Chapter 13
 8 Then Abram said to Lot, "Please, let there be no strife between me and you, or between my herdsmen and your herdsmen, for we are brothers.
 9 Is not the whole land before you? Please, separate from me. If you go to the left, then I will go to the right; or if you go to the right, then I will go to the left."
 
-10 Lot looked around and saw that the whole plain of the Jordan was well watered everywhere (before the Lord destroyed Sodom and Gomorrah), like the garden of the Lord, like the land of Egypt, as far as Zoar.
+10 Lot looked around and saw that the whole plain of the Jordan was well watered everywhere (before the LORD destroyed Sodom and Gomorrah), like the garden of the LORD, like the land of Egypt, as far as Zoar.
 11 So Lot chose for himself the whole plain of the Jordan, and Lot journeyed east. Thus they separated from each other.
 12 Abram settled in the land of Canaan, but Lot settled in the cities of the plain and pitched his tents near Sodom.
-13 Now the men of Sodom were exceedingly wicked and sinful against the Lord.
+13 Now the men of Sodom were exceedingly wicked and sinful against the LORD.
 
-14 The Lord said to Abram after Lot had separated from him, "Lift up your eyes and look from the place where you are—northward, southward, eastward, and westward—
+14 The LORD said to Abram after Lot had separated from him, "Lift up your eyes and look from the place where you are—northward, southward, eastward, and westward—
 15 for all the land that you see, I will give to you and to your descendants forever.
 16 And I will make your descendants like the dust of the earth, so that if anyone could count the dust of the earth, then your descendants also could be counted.
 17 Arise, walk through the land, its length and its breadth, for I am giving it to you."
 
-18 So Abram moved his tent and went to dwell by the oaks of Mamre, which are in Hebron, and there he built an altar to the Lord.
+18 So Abram moved his tent and went to dwell by the oaks of Mamre, which are in Hebron, and there he built an altar to the LORD.
 
 Chapter 14
 
@@ -552,7 +548,7 @@ Chapter 14
 20 And blessed be God Most High, who has delivered your enemies into your hand!" And Abram gave him a tenth of everything.
 
 21 Then the king of Sodom said to Abram, "Give me the men, but take the possessions for yourself."
-22 But Abram said to the king of Sodom, "I have raised my hand in an oath to the Lord, God Most High, Creator of heaven and earth,
+22 But Abram said to the king of Sodom, "I have raised my hand in an oath to the LORD, God Most High, Creator of heaven and earth,
 23 that I will take nothing belonging to you—not even a thread or a sandal strap—so that you may never say, 'I made Abram rich.'
 24 I will accept nothing but what the young men have eaten and the share for the men who went with me—Aner, Eshcol, and Mamre. Let them take their portion."
 
@@ -589,23 +585,23 @@ Chapter 15
 Chapter 16
 
 1 Now Sarai, Abram's wife, had borne him no children. But she had an Egyptian maidservant named Hagar.
-2 So Sarai said to Abram, "Look, the Lord has kept me from bearing children. Go to my maidservant; perhaps I will obtain children through her." And Abram listened to Sarai's voice.
+2 So Sarai said to Abram, "Look, the LORD has kept me from bearing children. Go to my maidservant; perhaps I will obtain children through her." And Abram listened to Sarai's voice.
 
 3 So after Abram had lived ten years in the land of Canaan, Sarai, his wife, took Hagar the Egyptian, her maidservant, and gave her to Abram her husband as a wife.
 4 And he went in to Hagar, and she conceived. When she saw that she had conceived, her mistress became insignificant in her eyes.
 
-5 Then Sarai said to Abram, "The wrong done to me is on you! I put my maidservant into your arms, but now that she sees she has conceived, I am despised in her eyes. May the Lord judge between me and you."
+5 Then Sarai said to Abram, "The wrong done to me is on you! I put my maidservant into your arms, but now that she sees she has conceived, I am despised in her eyes. May the LORD judge between me and you."
 6 But Abram said to Sarai, "Look, your maidservant is in your hands. Do with her whatever is good in your eyes." Then Sarai afflicted her, and she fled from her presence.
 
-7 Now the angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.
+7 Now the angel of the LORD found her by a spring of water in the wilderness, the spring on the way to Shur.
 8 And he said, "Hagar, maidservant of Sarai, where have you come from, and where are you going?" She said, "I am fleeing from the presence of my mistress Sarai."
 
-9 Then the angel of the Lord said to her, "Return to your mistress and submit yourself under her hand."
-10 And the angel of the Lord said, "I will greatly multiply your offspring so that they will be too numerous to count."
-11 And the angel of the Lord said to her, "Behold, you are pregnant and will bear a son. You shall name him Ishmael, for the Lord has heard your affliction.
+9 Then the angel of the LORD said to her, "Return to your mistress and submit yourself under her hand."
+10 And the angel of the LORD said, "I will greatly multiply your offspring so that they will be too numerous to count."
+11 And the angel of the LORD said to her, "Behold, you are pregnant and will bear a son. You shall name him Ishmael, for the LORD has heard your affliction.
 12 He will be a wild man; his hand will be against everyone, and everyone's hand will be against him. And he will dwell in hostility toward all his brothers."
 
-13 Then she called the name of the Lord who spoke to her, "You are the God who sees me," for she said, "Have I also seen Him here, who sees me?"
+13 Then she called the name of the LORD who spoke to her, "You are the God who sees me," for she said, "Have I also seen Him here, who sees me?"
 14 Therefore, the well was called Beer-lahai-roi. It is between Kadesh and Bered.
 
 15 And Hagar bore Abram a son, and Abram named his son, whom Hagar bore, Ishmael.
@@ -613,7 +609,7 @@ Chapter 16
 
 Chapter 17
 
-1 When Abram was ninety-nine years old, the Lord appeared to him and said, "I am God Almighty; walk before me and be blameless.
+1 When Abram was ninety-nine years old, the LORD appeared to him and said, "I am God Almighty; walk before me and be blameless.
 2 I will establish my covenant between me and you, and I will greatly multiply you."
 
 3 Then Abram fell facedown, and God spoke to him, saying,
@@ -650,7 +646,7 @@ Chapter 17
 
 Chapter 18
 
-1 The Lord appeared to him by the oaks of Mamre as he sat at the entrance of his tent in the heat of the day.
+1 The LORD appeared to him by the oaks of Mamre as he sat at the entrance of his tent in the heat of the day.
 2 He lifted his eyes and looked, and behold, three men were standing near him. When he saw them, he ran from the entrance of his tent to meet them and bowed himself to the ground.
 3 He said, "My lord, if I have found favor in your sight, do not pass by your servant.
 4 Let a little water be brought so that you may wash your feet and rest under the tree.
@@ -665,24 +661,24 @@ Chapter 18
 11 Now Abraham and Sarah were old, advanced in years; Sarah had passed the age of childbearing.
 12 So Sarah laughed to herself, saying, "After I am worn out and my lord is old, shall I have this pleasure?"
 
-13 The Lord said to Abraham, "Why did Sarah laugh and say, 'Shall I indeed bear a child, now that I am old?'
-14 Is anything too difficult for the Lord? At the appointed time, I will return to you, at this time next year, and Sarah will have a son."
+13 The LORD said to Abraham, "Why did Sarah laugh and say, 'Shall I indeed bear a child, now that I am old?'
+14 Is anything too difficult for the LORD? At the appointed time, I will return to you, at this time next year, and Sarah will have a son."
 15 But Sarah denied it, saying, "I did not laugh," for she was afraid. He said, "No, but you did laugh."
 
 16 Then the men set out from there and looked toward Sodom. Abraham went with them to send them on their way.
-17 The Lord said, "Shall I hide from Abraham what I am about to do,
+17 The LORD said, "Shall I hide from Abraham what I am about to do,
 18 since Abraham will surely become a great and mighty nation, and all the nations of the earth will be blessed through him?
-19 For I have chosen him, so that he may command his children and his household after him to keep the way of the Lord by doing righteousness and justice, so that the Lord may bring upon Abraham what he has promised him."
+19 For I have chosen him, so that he may command his children and his household after him to keep the way of the LORD by doing righteousness and justice, so that the LORD may bring upon Abraham what he has promised him."
 
-20 Then the Lord said, "The outcry against Sodom and Gomorrah is great, and their sin is very grievous.
+20 Then the LORD said, "The outcry against Sodom and Gomorrah is great, and their sin is very grievous.
 21 I will go down and see whether they have done altogether according to the outcry that has come to me. If not, I will know."
 
-22 The men turned away from there and went toward Sodom, but Abraham remained standing before the Lord.
+22 The men turned away from there and went toward Sodom, but Abraham remained standing before the LORD.
 23 Abraham drew near and said, "Will you indeed sweep away the righteous with the wicked?
 24 Suppose there are fifty righteous within the city. Will you really sweep it away and not spare the place for the sake of the fifty righteous who are in it?
 25 Far be it from you to do such a thing—to slay the righteous with the wicked, treating the righteous the same as the wicked! Far be it from you! Shall not the Judge of all the earth do what is just?"
 
-26 The Lord said, "If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sake."
+26 The LORD said, "If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sake."
 
 27 Abraham answered, "Behold, I have undertaken to speak to my Lord, though I am but dust and ashes.
 28 Suppose five of the fifty righteous are lacking—will you destroy the whole city for lack of five?" He said, "I will not destroy it if I find forty-five there."
@@ -695,7 +691,7 @@ Chapter 18
 
 32 Then he said, "Please do not let my Lord be angry, and I will speak only this once more. Suppose ten are found there." He said, "I will not destroy it for the sake of ten."
 
-33 When the Lord had finished speaking with Abraham, he departed, and Abraham returned to his place.
+33 When the LORD had finished speaking with Abraham, he departed, and Abraham returned to his place.
 
 Chapter 19
 
@@ -719,13 +715,13 @@ But they said, "No, we will spend the night in the square."
 11 Then they struck the men at the entrance, both small and great, with blindness, so that they wore themselves out trying to find the door.
 
 12 Then the men said to Lot, "Do you have anyone else here—a son-in-law, your sons, your daughters, or anyone else in the city who belongs to you? Get them out of this place,
-13 because we are about to destroy it. The outcry against this city has grown so great before the Lord that He has sent us to destroy it."
+13 because we are about to destroy it. The outcry against this city has grown so great before the LORD that He has sent us to destroy it."
 
-14 So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He said, "Get up! Get out of this place, for the Lord is about to destroy the city!" But his sons-in-law thought he was joking.
+14 So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He said, "Get up! Get out of this place, for the LORD is about to destroy the city!" But his sons-in-law thought he was joking.
 
 15 When morning dawned, the angels urged Lot, saying, "Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city."
 
-16 But he hesitated. So the men took hold of his hand, his wife's hand, and the hands of his two daughters—because of the Lord's mercy to him—and they led him out and set him outside the city.
+16 But he hesitated. So the men took hold of his hand, his wife's hand, and the hands of his two daughters—because of the LORD's mercy to him—and they led him out and set him outside the city.
 
 17 When they had brought them out, one of them said, "Flee for your life! Do not look back or stop anywhere in the plain. Escape to the mountains, or you will be swept away!"
 
@@ -737,12 +733,12 @@ But they said, "No, we will spend the night in the square."
 22 Hurry, escape there, for I cannot do anything until you arrive there." That is why the town was called Zoar.
 
 23 The sun had risen over the land when Lot arrived in Zoar.
-24 Then the Lord rained sulfur and fire on Sodom and Gomorrah from the Lord out of the heavens.
+24 Then the LORD rained sulfur and fire on Sodom and Gomorrah from the LORD out of the heavens.
 25 He overthrew those cities, the entire plain, all the inhabitants of the cities, and everything growing on the ground.
 
 26 But Lot's wife, who was behind him, looked back, and she became a pillar of salt.
 
-27 Early in the morning, Abraham went to the place where he had stood before the Lord.
+27 Early in the morning, Abraham went to the place where he had stood before the LORD.
 28 He looked toward Sodom and Gomorrah and all the land of the plain, and he saw that smoke was rising from the land like the smoke of a furnace.
 
 29 So it was, when God destroyed the cities of the plain, that He remembered Abraham and brought Lot out of the midst of the destruction when He overthrew the cities where Lot had lived.
@@ -787,11 +783,11 @@ Chapter 20
 16 And to Sarah he said, "Behold, I have given a thousand pieces of silver to your brother. It is a vindication before all who are with you; you are fully vindicated."
 
 17 Then Abraham prayed to God, and God healed Abimelech, his wife, and his female servants, so that they could bear children again.
-18 For the Lord had completely closed the wombs of all the women in Abimelech's household because of Sarah, Abraham's wife.
+18 For the LORD had completely closed the wombs of all the women in Abimelech's household because of Sarah, Abraham's wife.
 
 Chapter 21
 
-1 The Lord visited Sarah as He had said, and the Lord did for Sarah what He had promised.
+1 The LORD visited Sarah as He had said, and the LORD did for Sarah what He had promised.
 2 So Sarah conceived and bore a son to Abraham in his old age, at the appointed time God had spoken to him.
 3 Abraham named his son who was born to him, the son Sarah bore him, Isaac.
 4 And Abraham circumcised his son Isaac when he was eight days old, just as God had commanded him.
@@ -833,7 +829,7 @@ Chapter 21
 31 Therefore, that place was called Beersheba, because the two of them swore an oath there.
 
 32 After they had made an agreement at Beersheba, Abimelech and Phicol, the commander of his army, arose and returned to the land of the Philistines.
-33 Abraham planted a tamarisk tree in Beersheba and called there on the name of the Lord, the Everlasting God.
+33 Abraham planted a tamarisk tree in Beersheba and called there on the name of the LORD, the Everlasting God.
 34 And Abraham stayed in the land of the Philistines for many days.
 
 Chapter 22
@@ -861,17 +857,17 @@ Isaac said, "Look, the fire and the wood, but where is the lamb for the burnt of
 9 When they arrived at the place God had told him about, Abraham built an altar there and arranged the wood. He bound his son Isaac and laid him on the altar, on top of the wood.
 10 Then Abraham reached out his hand and took the knife to slaughter his son.
 
-11 But the angel of the Lord called to him from heaven, saying, "Abraham, Abraham!"
+11 But the angel of the LORD called to him from heaven, saying, "Abraham, Abraham!"
 
 And he answered, "Here I am."
 
 12 Then He said, "Do not lay a hand on the boy or do anything to him, for now I know that you fear God, since you have not withheld your son, your only son, from Me."
 
 13 Abraham looked up and saw a ram caught by its horns in a thicket. So he went and took the ram and offered it as a burnt offering in place of his son.
-14 And Abraham named that place "The Lord Will Provide," as it is said to this day, "It will be provided, on the mountain of the Lord."
+14 And Abraham named that place "The LORD Will Provide," as it is said to this day, "It will be provided, on the mountain of the LORD."
 
-15 Then the angel of the Lord called to Abraham a second time from heaven
-16 and said, "By Myself I have sworn, declares the Lord, because you have done this and have not withheld your son, your only son,
+15 Then the angel of the LORD called to Abraham a second time from heaven
+16 and said, "By Myself I have sworn, declares the LORD, because you have done this and have not withheld your son, your only son,
 17 I will surely bless you and greatly multiply your offspring like the stars of the sky and the sand on the seashore. Your offspring will possess the gate of their enemies,
 18 and through your offspring all the nations of the earth will be blessed, because you have obeyed My voice."
 
@@ -909,19 +905,19 @@ Chapter 23
 
 Chapter 24
 
-1 Now Abraham was old, well advanced in years, and the Lord had blessed Abraham in all things.
+1 Now Abraham was old, well advanced in years, and the LORD had blessed Abraham in all things.
 2 Abraham said to his servant, the oldest of his household who was in charge of all he owned, "Place your hand under my thigh,
-3 so that I may make you swear by the Lord, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites among whom I live,
+3 so that I may make you swear by the LORD, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites among whom I live,
 4 but that you will go to my homeland and to my kindred and take a wife for my son Isaac from there."
 5 The servant said to him, "What if the woman is not willing to follow me back to this land? Should I then take your son back to the land from which you came?"
 6 Abraham answered him, "Make sure that you do not take my son back there.
-7 The Lord, the God of heaven, who took me from my father's house and from the land of my kindred, spoke to me and swore to me, saying, 'To your offspring I will give this land.' He will send His angel before you, and you shall take a wife for my son from there.
+7 The LORD, the God of heaven, who took me from my father's house and from the land of my kindred, spoke to me and swore to me, saying, 'To your offspring I will give this land.' He will send His angel before you, and you shall take a wife for my son from there.
 8 But if the woman is not willing to follow you, then you will be released from this oath of mine—only do not take my son back there."
 9 So the servant placed his hand under the thigh of his master Abraham and swore to him concerning this matter.
 
 10 Then the servant took ten of his master's camels and departed, taking with him all kinds of valuable objects from his master's wealth. He arose and went to Aram-naharaim, to the city of Nahor.
 11 He made the camels kneel outside the city by the well of water at evening time, the time when women go out to draw water.
-12 He said, "O Lord, God of my master Abraham, please grant me success today and show your loyal love to my master Abraham.
+12 He said, "O LORD, God of my master Abraham, please grant me success today and show your loyal love to my master Abraham.
 13 I am here, standing beside the spring of water, and the daughters of the men of the city are coming out to draw water.
 14 Let it be that the girl to whom I say, 'Please lower your jar so that I may drink,' and who replies, 'Drink, and I will also water your camels'—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown loyal love to my master."
 
@@ -931,48 +927,48 @@ Chapter 24
 18 She said, "Drink, my lord," and quickly lowered her jar to her hand and gave him a drink.
 19 When she had finished giving him a drink, she said, "I will also draw water for your camels until they have finished drinking."
 20 So she quickly emptied her jar into the trough, ran back to the well to draw more water, and drew for all his camels.
-21 The man watched her silently to know whether the Lord had made his journey successful or not.
+21 The man watched her silently to know whether the LORD had made his journey successful or not.
 
 22 When the camels had finished drinking, the man took a gold ring weighing half a shekel and two bracelets for her arms weighing ten shekels of gold,
 23 and he said, "Whose daughter are you? Please tell me, is there room in your father's house for us to stay overnight?"
 24 She said to him, "I am the daughter of Bethuel, the son of Milcah, whom she bore to Nahor."
 25 She also said to him, "We have both straw and fodder in abundance, and a place to stay."
-26 Then the man bowed his head and worshiped the Lord
-27 and said, "Blessed be the Lord, the God of my master Abraham, who has not withheld His loyal love and His faithfulness from my master. As for me, the Lord has guided me on the way to the house of my master's relatives."
+26 Then the man bowed his head and worshiped the LORD
+27 and said, "Blessed be the LORD, the God of my master Abraham, who has not withheld His loyal love and His faithfulness from my master. As for me, the LORD has guided me on the way to the house of my master's relatives."
 
 28 The girl ran and told her mother's household what had happened.
 29 Now Rebekah had a brother named Laban, and Laban ran out to the man at the spring.
 30 When he saw the ring and the bracelets on his sister's arms and heard Rebekah recount the words of the man, he went to him, and found him, standing by the camels at the spring.
-31 Laban said, "Come, blessed of the Lord! Why are you standing outside? I have prepared the house and a place for the camels."
+31 Laban said, "Come, blessed of the LORD! Why are you standing outside? I have prepared the house and a place for the camels."
 32 So the man came to the house, and they unloaded the camels. Straw and fodder were given to the camels, and water to wash his feet and the feet of the men who were with him.
 33 Then food was set before him, but he said, "I will not eat until I have told my business." So they said, "Speak."
 
 34 And he said, "I am Abraham's servant.
-35 The Lord has greatly blessed my master, and he has become wealthy. He has given him flocks and herds, silver and gold, male and female servants, camels and donkeys.
+35 The LORD has greatly blessed my master, and he has become wealthy. He has given him flocks and herds, silver and gold, male and female servants, camels and donkeys.
 36 Sarah, my master's wife, bore a son to my master in her old age, and he has given him all he owns.
 37 My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell,
 38 but you shall go to my father's house and to my clan, and take a wife from there for my son.'
 39 Then I said to my master, 'What if the woman will not follow me?'
-40 But he said to me, 'The Lord, before whom I have walked, will send His angel with you and make your way successful. You shall take a wife for my son from my clan and from my father's house.
+40 But he said to me, 'The LORD, before whom I have walked, will send His angel with you and make your way successful. You shall take a wife for my son from my clan and from my father's house.
 41 Then you will be free from my oath, when you come to my clan. And if they will not give her to you, you will be free from my oath.'
 
-42 I came today to the spring and said, 'O Lord, God of my master Abraham, if You are indeed making my journey successful,
+42 I came today to the spring and said, 'O LORD, God of my master Abraham, if You are indeed making my journey successful,
 43 behold, I am standing by the spring of water. Let it be that the young woman who comes out to draw water, to whom I say, "Please give me a little water from your jar to drink,"
-44 that if she says to me, "Drink, and I will also draw for your camels," let her be the woman the Lord has appointed for my master's son.'
+44 that if she says to me, "Drink, and I will also draw for your camels," let her be the woman the LORD has appointed for my master's son.'
 45 Before I had finished speaking in my heart, Rebekah approached with her jar on her shoulder. She went down to the spring and drew water. I said to her, 'Please let me drink.'
 46 She quickly lowered her jar from her shoulder and said, 'Drink, and I will also water your camels.' So I drank, and she also watered the camels.
 47 Then I asked her, 'Whose daughter are you?' She said, 'The daughter of Bethuel, son of Nahor, whom Milcah bore to him.' So I put the ring on her nose and the bracelets on her arms.
-48 Then I bowed down and worshiped the Lord and blessed the Lord, the God of my master Abraham, who had led me on the right way to take the daughter of my master's relative for his son.
+48 Then I bowed down and worshiped the LORD and blessed the LORD, the God of my master Abraham, who had led me on the right way to take the daughter of my master's relative for his son.
 49 Now then, if you intend to show loyal love and faithfulness to my master, tell me. But if not, tell me, so that I may turn either to the right or to the left."
 
-50 Then Laban and Bethuel answered, "This matter has come from the Lord; we cannot speak to you either bad or good.
-51 Behold, Rebekah is before you; take her and go, and let her be the wife of your master's son, just as the Lord has spoken."
+50 Then Laban and Bethuel answered, "This matter has come from the LORD; we cannot speak to you either bad or good.
+51 Behold, Rebekah is before you; take her and go, and let her be the wife of your master's son, just as the LORD has spoken."
 
-52 When Abraham's servant heard their words, he bowed himself to the ground before the Lord.
+52 When Abraham's servant heard their words, he bowed himself to the ground before the LORD.
 53 And the servant brought out articles of silver and gold and garments and gave them to Rebekah. He also gave costly gifts to her brother and to her mother.
 54 Then he and the men who were with him ate and drank and spent the night there. When they got up in the morning, he said, "Send me away to my master."
 55 But her brother and her mother said, "Let the girl stay with us a few days, at least ten; then she may go."
-56 But he said to them, "Do not delay me, since the Lord has made my journey successful. Send me away so that I may go to my master."
+56 But he said to them, "Do not delay me, since the LORD has made my journey successful. Send me away so that I may go to my master."
 57 They said, "Let us call the girl and ask her."
 58 So they called Rebekah and said to her, "Will you go with this man?" And she said, "I will go."
 
@@ -1166,17 +1162,17 @@ Chapter 28
 10 Jacob left Beersheba and went toward Haran.
 11 He came to a certain place and spent the night there because the sun had set. He took one of the stones from the place, put it under his head, and lay down in that place to sleep.
 12 He dreamed, and behold, a stairway was set up on the earth, and the top of it reached to heaven. The angels of God were going up and coming down on it.
-13 And behold, the Lord was standing beside him and said, "I am the Lord, the God of Abraham your father and the God of Isaac. I will give to you and to your offspring the land on which you lie.
+13 And behold, the LORD was standing beside him and said, "I am the LORD, the God of Abraham your father and the God of Isaac. I will give to you and to your offspring the land on which you lie.
 14 Your offspring shall be like the dust of the earth, and you shall spread out to the west and to the east, to the north and to the south. Through you and through your offspring all the families of the earth shall be blessed.
 15 Behold, I am with you, and I will keep you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you."
 
-16 Jacob woke from his sleep and said, "Surely the Lord is in this place, and I did not know it."
+16 Jacob woke from his sleep and said, "Surely the LORD is in this place, and I did not know it."
 17 And he was afraid and said, "How awesome is this place! This is none other than the house of God, and this is the gate of heaven."
 
 18 So Jacob rose early in the morning, took the stone he had placed under his head, set it up as a pillar, and poured oil on top of it.
 19 He named that place Bethel, though formerly the name of the city was Luz.
 20 Then Jacob made a vow, saying, "If God will be with me, and will keep me on this journey that I am taking, and will give me food to eat and clothes to wear,
-21 so that I return in peace to my father's house, then the Lord shall be my God.
+21 so that I return in peace to my father's house, then the LORD shall be my God.
 22 And this stone, which I have set up as a pillar, shall be God's house. And of all that you give me, I will surely give a tenth to you."
 
 Chapter 29
@@ -1219,11 +1215,11 @@ Chapter 29
 29 Laban gave his servant girl Bilhah to his daughter Rachel as her maid.
 30 Jacob slept with Rachel also, and he loved Rachel more than Leah. He served Laban for another seven years.
 
-31 When the Lord saw that Leah was unloved, he opened her womb, but Rachel was barren.
-32 Leah conceived and bore a son, and she named him Reuben, for she said, "The Lord has seen my affliction; surely now my husband will love me."
-33 She conceived again, gave birth to a son, and said, "Because the Lord heard that I am unloved, he gave me this one also." So she named him Simeon.
+31 When the LORD saw that Leah was unloved, he opened her womb, but Rachel was barren.
+32 Leah conceived and bore a son, and she named him Reuben, for she said, "The LORD has seen my affliction; surely now my husband will love me."
+33 She conceived again, gave birth to a son, and said, "Because the LORD heard that I am unloved, he gave me this one also." So she named him Simeon.
 34 She conceived again and bore a son and said, "Now at last my husband will be attached to me, because I've borne him three sons." So he was named Levi.
-35 She conceived once more and bore a son, and she said, "This time I will praise the Lord." Therefore she named him Judah. Then she stopped having children.
+35 She conceived once more and bore a son, and she said, "This time I will praise the LORD." Therefore she named him Judah. Then she stopped having children.
 
 Chapter 30
 
@@ -1280,7 +1276,7 @@ Chapter 31
 
 1 Now Jacob heard the words of Laban's sons, saying, "Jacob has taken all that belonged to our father, and from what was our father's he has gained all this wealth."
 2 Jacob also saw that Laban's face was not favorable toward him as before.
-3 Then the Lord said to Jacob, "Return to the land of your fathers and to your kindred, and I will be with you."
+3 Then the LORD said to Jacob, "Return to the land of your fathers and to your kindred, and I will be with you."
 
 4 So Jacob sent and called Rachel and Leah to the field where his flock was,
 5 and said to them, "I see that your father's attitude toward me is not as it was before, but the God of my father has been with me.
@@ -1340,7 +1336,7 @@ Chapter 31
 46 And Jacob said to his kinsmen, "Gather stones." So they took stones and made a heap, and they ate there by the heap.
 47 Laban called it Jegar-sahadutha, but Jacob called it Galeed.
 48 And Laban said, "This heap is a witness between you and me today." Therefore its name was called Galeed,
-49 and Mizpah, for he said, "The Lord watch between you and me, when we are out of one another's sight.
+49 and Mizpah, for he said, "The LORD watch between you and me, when we are out of one another's sight.
 50 If you afflict my daughters, or if you take wives besides my daughters, though no man is with us, see—God is witness between you and me."
 
 51 Then Laban said to Jacob, "See this heap and the pillar which I have set between you and me.
@@ -1363,7 +1359,7 @@ Chapter 32
 7 Then Jacob was very afraid and distressed. He divided the people who were with him, along with the flocks, the herds, and the camels, into two camps.
 8 For he thought, "If Esau comes to the one camp and strikes it, then the other camp will escape."
 
-9 Then Jacob said, "O God of my father Abraham and God of my father Isaac, O Lord, who said to me, 'Return to your country and to your kindred, and I will bless you,'
+9 Then Jacob said, "O God of my father Abraham and God of my father Isaac, O LORD, who said to me, 'Return to your country and to your kindred, and I will bless you,'
 10 I am not worthy of all the kindness and faithfulness that You have shown to Your servant. For with only my staff I crossed this Jordan, and now I have become two camps.
 11 Deliver me, I pray, from the hand of my brother, from the hand of Esau, for I fear him, that he may come and strike me down, the mothers with the children.
 12 Yet You Yourself said, 'I will surely bless you, and make your offspring like the sand of the sea, which cannot be numbered for multitude.'"
@@ -2136,7 +2132,7 @@ Chapter 49
 
 16 Dan shall judge his people as one of the tribes of Israel.
 17 Dan shall be a serpent by the road, a viper on the path, that bites the horse's heels so that its rider falls backward.
-18 I wait for your salvation, O Lord.
+18 I wait for your salvation, O LORD.
 
 19 Gad, raiders shall raid him, but he shall raid at their heels.
 
@@ -2506,7 +2502,7 @@ Chapter 8
 
 Chapter 9
 
-1 Then the Lord said to Moses, “Go in to Pharaoh and speak to him: ‘Thus says the Lord, the God of the Hebrews, “Send out My people, so that they may serve Me.
+1 Then the LORD said to Moses, “Go in to Pharaoh and speak to him: ‘Thus says the LORD, the God of the Hebrews, “Send out My people, so that they may serve Me.
 2 For if you refuse to send them out and still hold them,
 3 then the hand of the Lord will come with a very severe plague upon your livestock which are in the field, on the horses, the donkeys, the camels, the herds, and the flocks.
 4 But the Lord will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.”’”
@@ -9163,10 +9159,10 @@ Chapter 1
 10 So Judah went against the Canaanites who lived in Hebron (the name of Hebron formerly was Kiriath-arba), and they struck Sheshai, Ahiman, and Talmai.
 11 From there they went against the inhabitants of Debir (the name of Debir formerly was Kiriath-sepher).
 
-12 And Caleb said, “Whoever strikes Kiriath-sepher and captures it, I will give him my daughter Achsah as a wife.”
+12 And Caleb said, “Whoever attacks Kiriath-sepher and captures it, I will give him my daughter Achsah as a wife.”
 13 Othniel the son of Kenaz, Caleb’s younger brother, captured it; so Caleb gave him his daughter Achsah as a wife.
-14 When she came to him, she persuaded him to ask her father for a field. She dismounted from her donkey, and Caleb said to her, “What do you want?”
-15 She said to him, “Give me a blessing. Since you have given me land in the Negev, give me also springs of water.” And Caleb gave her the upper springs and the lower springs.
+14 When she came to him, she persuaded him to ask her father for a field. When she dismounted from her donkey, Caleb said to her, “What do you want?”
+15 She said to him, “Give me a blessing. Since you have given me land in the Negev, give me also springs of water.” So Caleb gave her the upper springs and the lower springs.
 
 16 The descendants of the Kenite, Moses’ father-in-law, went up from the city of palms with the sons of Judah into the wilderness of Judah, which is in the Negev near Arad; and they went and settled with the people there.
 
@@ -12511,8 +12507,7 @@ Chapter 2
 43 Why then have you not kept the oath of the LORD and the commandment that I charged you with?”
 44 The king said also to Shimei, “You know in your heart all the evil that you did to David my father. Therefore the LORD will return your evil onto your own head.
 45 But King Solomon shall be blessed, and the throne of David shall be established before the LORD forever.”
-46 So the king commanded Benaiah son of Jehoiada, and he went out and struck him down, and he died.
-    And the kingdom was established in the hand of Solomon.
+46 So the king commanded Benaiah son of Jehoiada, and he went out and struck him down, and he died, establishing the kingdom in Solomon's hand.
 
 Chapter 3
 
@@ -51383,23 +51378,23 @@ In the midst of the throne and around the throne were four living creatures full
 
 Chapter 5
 
-1 Then I saw in the right hand of the One seated on the throne a scroll written on the inside and on the back, sealed with seven seals.
+1 Then I saw in the right hand of the One seated on the throne, a scroll written on the front and on the back, sealed with seven seals.
 2 And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and to break its seals?”
 3 And no one in heaven or on earth or under the earth was able to open the scroll or to look into it.
 4 And I began to weep greatly, because no one was found worthy to open the scroll or to look into it.
-5 But one of the elders said to me, “Do not weep. Behold, the Lion of the tribe of Judah, the Root of David, has overcome so that He can open the scroll and its seven seals.”
+5 But one of the elders said to me, “Do not weep. See how the Lion of the tribe of Judah, the Root of David, has overcome so that He can open the scroll and its seven seals.”
 
-6 And I saw in the midst of the throne, and the four living creatures, and in the midst of the elders - a Lamb standing, as though slain, having seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.
+6 In the midst of the throne, and the four living creatures, and in the midst of the elders, I saw a Lamb standing, as though slain, having seven horns and seven eyes, which are the seven spirits of God, which are sent out into all the earth.
 7 And He came and took the scroll from the right hand of the One seated on the throne.
 8 And when He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each having a harp and golden bowls full of incense, which are the prayers of the saints.
 9 And they sang a new song, saying,
-    “You are worthy to take the scroll and to open its seals,
+    “You are worthy to take the scroll and open its seals,
     for You were slain, and by Your blood You ransomed men for God
-    from every tribe and tongue and people and nation,
+    out of every tribe and tongue and people and nation,
 10 and You made them a kingdom and priests to our God,
-    and they shall reign on the earth.”
+    and they will reign over the earth.”
 
-11 Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders, and their number was myriads of myriads and thousands of thousands,
+11 Then I looked, and I heard around the throne, the voice of many angels and the living creatures and the elders; and their number was myriads of myriads and thousands of thousands,
 12 saying with a loud voice,
     “Worthy is the Lamb who was slain
     to receive power and riches and wisdom and strength

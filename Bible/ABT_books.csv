@@ -1,67 +1,67 @@
-id,Book,Abbreviation,ChapterCount
-1,Genesis,Gen,50
-2,Exodus,Exo,40
-3,Leviticus,Lev,27
-4,Numbers,Num,36
-5,Deuteronomy,Deu,34
-6,Joshua,Jos,24
-7,Judges,Jdg,21
-8,Ruth,Rut,4
-9,1 Samuel,1Sa,31
-10,2 Samuel,2Sa,24
-11,1 Kings,1Ki,22
-12,2 Kings,2Ki,25
-13,1 Chronicles,1Ch,29
-14,2 Chronicles,2Ch,36
-15,Ezra,Ezr,10
-16,Nehemiah,Neh,13
-17,Esther,Est,10
-18,Job,Job,42
-19,Psalms,Psa,150
-20,Proverbs,Prv,31
-21,Ecclesiastes,Ecc,12
-22,Song of Solomon,Sng,8
-23,Isaiah,Isa,66
-24,Jeremiah,Jer,52
-25,Lamentations,Lam,5
-26,Ezekiel,Ezk,48
-27,Daniel,Dan,12
-28,Hosea,Hos,14
-29,Joel,Jol,3
-30,Amos,Amo,9
-31,Obadiah,Oba,1
-32,Jonah,Jon,4
-33,Micah,Mic,7
-34,Nahum,Nah,3
-35,Habakkuk,Hab,3
-36,Zephaniah,Zep,3
-37,Haggai,Hag,2
-38,Zechariah,Zec,14
-39,Malachi,Mal,4
-40,Matthew,Mat,28
-41,Mark,Mrk,16
-42,Luke,Luk,24
-43,John,Jhn,32
-44,Acts,Act,28
-45,Romans,Rom,16
-46,1 Corinthians,1Co,16
-47,2 Corinthians,2Co,13
-48,Galatians,Gal,6
-49,Ephesians,Eph,6
-50,Phillipians,Php,4
-51,Colossians,Col,4
-52,1 Thessalonians,1Th,5
-53,2 Thessalonians,2Th,3
-54,1 Timothy,1Ti,6
-55,2 Timothy,2Ti,4
-56,Titus,Tit,3
-57,Philemon,Phm,1
-58,Hebrews,Heb,13
-59,James,Jas,5
-60,1 Peter,1Pe,5
-61,2 Peter,2Pe,3
-62,1 John,1Jn,5
-63,2 John,2Jn,1
-64,3 John,3Jn,1
-65,Jude,Jud,1
-66,Revelation,Rev,22
+id,Book,Abbreviation,ChapterCount,LongName
+1,Genesis,Gen,50,"The First Book of Moses, called Genesis"
+2,Exodus,Exo,40,"The Second Book of Moses, called Exodus"
+3,Leviticus,Lev,27,"The Third Book of Moses, called Leviticus"
+4,Numbers,Num,36,"The Fourth Book of Moses, called Numbers"
+5,Deuteronomy,Deu,34,"The Fifth Book of Moses, called Deuteronomy"
+6,Joshua,Jos,24,The Book of Joshua
+7,Judges,Jdg,21,The Book of Judges
+8,Ruth,Rut,4,The Book of Ruth
+9,1 Samuel,1Sa,31,The First Book of Samuel
+10,2 Samuel,2Sa,24,The Second Book of Samuel
+11,1 Kings,1Ki,22,The First Book of the Kings
+12,2 Kings,2Ki,25,The Second Book of the Kings
+13,1 Chronicles,1Ch,29,The First Book of the Chronicles
+14,2 Chronicles,2Ch,36,The Second Book of the Chronicles
+15,Ezra,Ezr,10,The Book of Ezra
+16,Nehemiah,Neh,13,The Book of Nehemiah
+17,Esther,Est,10,The Book of Esther
+18,Job,Job,42,The Book of Job
+19,Psalms,Psa,150,The Psalms
+20,Proverbs,Prv,31,The Proverbs
+21,Ecclesiastes,Ecc,12,"Ecclesiastes, or, the Preacher"
+22,Song of Solomon,Sng,8,The Song of Solomon
+23,Isaiah,Isa,66,The Book of the Prophet Isaiah
+24,Jeremiah,Jer,52,The Book of the Prophet Jeremiah
+25,Lamentations,Lam,5,The Lamentations of Jeremiah
+26,Ezekiel,Ezk,48,The Book of the Prophet Ezekiel
+27,Daniel,Dan,12,The Book of Daniel
+28,Hosea,Hos,14,Hosea
+29,Joel,Jol,3,Joel
+30,Amos,Amo,9,Amos
+31,Obadiah,Oba,1,Obadiah
+32,Jonah,Jon,4,Jonah
+33,Micah,Mic,7,Micah
+34,Nahum,Nah,3,Nahum
+35,Habakkuk,Hab,3,Habakkuk
+36,Zephaniah,Zep,3,Zephaniah
+37,Haggai,Hag,2,Haggai
+38,Zechariah,Zec,14,Zechariah
+39,Malachi,Mal,4,Malachi
+40,Matthew,Mat,28,The Gospel According to Matthew
+41,Mark,Mrk,16,The Gospel According to Mark
+42,Luke,Luk,24,The Gospel According to Luke
+43,John,Jhn,32,The Gospel According to John
+44,Acts,Act,28,The Acts of the Apostles
+45,Romans,Rom,16,The Epistle of Paul to the Romans
+46,1 Corinthians,1Co,16,The First Epistle of Paul to the Corinthians
+47,2 Corinthians,2Co,13,The Second Epistle of Paul to the Corinthians
+48,Galatians,Gal,6,The Epistle of Paul to the Galatians
+49,Ephesians,Eph,6,The Epistle of Paul to the Ephesians
+50,Phillipians,Php,4,The Epistle of Paul to the Philippians
+51,Colossians,Col,4,The Epistle of Paul to the Colossians
+52,1 Thessalonians,1Th,5,The First Epistle of Paul to the Thessalonians
+53,2 Thessalonians,2Th,3,The Second Epistle of Paul to the Thessalonians
+54,1 Timothy,1Ti,6,The First Epistle of Paul to Timothy
+55,2 Timothy,2Ti,4,The Second Epistle of Paul to Timothy
+56,Titus,Tit,3,The Epistle of Paul to Titus
+57,Philemon,Phm,1,The Epistle of Paul to Philemon
+58,Hebrews,Heb,13,The Epistle of Paul to the Hebrews
+59,James,Jas,5,The General Epistle of James
+60,1 Peter,1Pe,5,The First General Epistle of Peter
+61,2 Peter,2Pe,3,The Second General Epistle of Peter
+62,1 John,1Jn,5,The First General Epistle of John
+63,2 John,2Jn,1,The Second General Epistle of John
+64,3 John,3Jn,1,The Third General Epistle of John
+65,Jude,Jud,1,The General Epistle of Jude
+66,Revelation,Rev,22,The Revelation of John
