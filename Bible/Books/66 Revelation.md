@@ -67,16 +67,16 @@ In the midst of the throne and around the throne were four living creatures full
 
 ## Chapter 5
 
-**<sup>1</sup>** Then I saw in the right hand of the One seated on the throne a scroll written on the inside and on the back, sealed with seven seals. **<sup>2</sup>** And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and to break its seals?” **<sup>3</sup>** And no one in heaven or on earth or under the earth was able to open the scroll or to look into it. **<sup>4</sup>** And I began to weep greatly, because no one was found worthy to open the scroll or to look into it. **<sup>5</sup>** But one of the elders said to me, “Do not weep. Behold, the Lion of the tribe of Judah, the Root of David, has overcome so that He can open the scroll and its seven seals.”
+**<sup>1</sup>** Then I saw in the right hand of the One seated on the throne, a scroll written on the front and on the back, sealed with seven seals. **<sup>2</sup>** And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and to break its seals?” **<sup>3</sup>** And no one in heaven or on earth or under the earth was able to open the scroll or to look into it. **<sup>4</sup>** And I began to weep greatly, because no one was found worthy to open the scroll or to look into it. **<sup>5</sup>** But one of the elders said to me, “Do not weep. See how the Lion of the tribe of Judah, the Root of David, has overcome so that He can open the scroll and its seven seals.”
 
-**<sup>6</sup>** And I saw in the midst of the throne, and the four living creatures, and in the midst of the elders - a Lamb standing, as though slain, having seven horns and seven eyes, which are the seven spirits of God sent out into all the earth. **<sup>7</sup>** And He came and took the scroll from the right hand of the One seated on the throne. **<sup>8</sup>** And when He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each having a harp and golden bowls full of incense, which are the prayers of the saints. **<sup>9</sup>** And they sang a new song, saying,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;“You are worthy to take the scroll and to open its seals,<br/>
+**<sup>6</sup>** In the midst of the throne, and the four living creatures, and in the midst of the elders, I saw a Lamb standing, as though slain, having seven horns and seven eyes, which are the seven spirits of God, which are sent out into all the earth. **<sup>7</sup>** And He came and took the scroll from the right hand of the One seated on the throne. **<sup>8</sup>** And when He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each having a harp and golden bowls full of incense, which are the prayers of the saints. **<sup>9</sup>** And they sang a new song, saying,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;“You are worthy to take the scroll and open its seals,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;for You were slain, and by Your blood You ransomed men for God<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;from every tribe and tongue and people and nation,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;out of every tribe and tongue and people and nation,<br/>
 **<sup>10</sup>** and You made them a kingdom and priests to our God,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and they shall reign on the earth.”
+&nbsp;&nbsp;&nbsp;&nbsp;and they will reign over the earth.”
 
-**<sup>11</sup>** Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders, and their number was myriads of myriads and thousands of thousands, **<sup>12</sup>** saying with a loud voice,<br/>
+**<sup>11</sup>** Then I looked, and I heard around the throne, the voice of many angels and the living creatures and the elders; and their number was myriads of myriads and thousands of thousands, **<sup>12</sup>** saying with a loud voice,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;“Worthy is the Lamb who was slain<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;to receive power and riches and wisdom and strength<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and honor and glory and blessing!”

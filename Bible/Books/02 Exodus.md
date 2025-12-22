@@ -174,19 +174,19 @@ The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi; t
 
 ## Chapter 9
 
-**<sup>1</sup>** Then the Lord said to Moses, “Go in to Pharaoh and speak to him: ‘Thus says the Lord, the God of the Hebrews, “Send out My people, so that they may serve Me. **<sup>2</sup>** For if you refuse to send them out and still hold them, **<sup>3</sup>** then the hand of the Lord will come with a very severe plague upon your livestock which are in the field, on the horses, the donkeys, the camels, the herds, and the flocks. **<sup>4</sup>** But the Lord will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.”’” **<sup>5</sup>** And the Lord set a definite time, saying, “Tomorrow the Lord will do this thing in the land.” **<sup>6</sup>** So the Lord did this thing on the next day, and all the livestock of Egypt died; but from the livestock of the sons of Israel, not one died. **<sup>7</sup>** Pharaoh sent men to look, and behold, not even one of the livestock of Israel had died. But Pharaoh’s heart was hardened, and he did not let the people go.
+**<sup>1</sup>** Then the LORD said to Moses, “Go in to Pharaoh and speak to him: ‘Thus says the LORD, the God of the Hebrews, “Send out My people, so that they may serve Me. **<sup>2</sup>** For if you refuse to send them out and still hold them, **<sup>3</sup>** then the hand of the LORD will come with a very severe plague upon your livestock which are in the field, on the horses, the donkeys, the camels, the herds, and the flocks. **<sup>4</sup>** But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.”’” **<sup>5</sup>** And the LORD set a definite time, saying, “Tomorrow the LORD will do this thing in the land.” **<sup>6</sup>** So the LORD did this thing on the next day, and all the livestock of Egypt died; but from the livestock of the sons of Israel, not one died. **<sup>7</sup>** Pharaoh sent men to look, and behold, not even one of the livestock of Israel had died. But Pharaoh’s heart was hardened, and he did not let the people go.
 
-**<sup>8</sup>** Then the Lord said to Moses and to Aaron, “Take handfuls of soot from a kiln, and have Moses scatter it toward the sky in the sight of Pharaoh. **<sup>9</sup>** It will become fine dust over all the land of Egypt, and become boils breaking out in sores on man and beast throughout all the land of Egypt.” **<sup>10</sup>** So they took soot from the kiln and stood before Pharaoh, and Moses scattered it toward the sky, and it became boils with sores breaking out on man and beast. **<sup>11</sup>** The magicians could not stand before Moses because of the boils, for the boils were on the magicians as well as on all the Egyptians. **<sup>12</sup>** But the Lord hardened Pharaoh’s heart, and he did not listen to them, just as the Lord had spoken to Moses.
+**<sup>8</sup>** Then the LORD said to Moses and to Aaron, “Take handfuls of soot from a kiln, and have Moses scatter it toward the sky in the sight of Pharaoh. **<sup>9</sup>** It will become fine dust over all the land of Egypt, and become boils breaking out in sores on man and beast throughout all the land of Egypt.” **<sup>10</sup>** So they took soot from the kiln and stood before Pharaoh, and Moses scattered it toward the sky, and it became boils with sores breaking out on man and beast. **<sup>11</sup>** The magicians could not stand before Moses because of the boils, for the boils were on the magicians as well as on all the Egyptians. **<sup>12</sup>** But the LORD hardened Pharaoh’s heart, and he did not listen to them, just as the LORD had spoken to Moses.
 
-**<sup>13</sup>** Then the Lord said to Moses, “Rise early in the morning and stand before Pharaoh and say to him, ‘Thus says the Lord, the God of the Hebrews: “Send out My people, so that they may serve Me. **<sup>14</sup>** For this time I will send all My plagues upon your own heart, and upon your servants and your people, so that you may know that there is no one like Me in all the earth. **<sup>15</sup>** For if I had stretched out My hand and struck you and your people with the plague, then you would have been cut off from the earth. **<sup>16</sup>** But for this very reason I have raised you up, in order to show you My power, and in order that My name might be proclaimed throughout all the earth. **<sup>17</sup>** Still, you exalt yourself against My people by not letting them go.
+**<sup>13</sup>** Then the LORD said to Moses, “Rise early in the morning and stand before Pharaoh and say to him, ‘Thus says the LORD, the God of the Hebrews: “Send out My people, so that they may serve Me. **<sup>14</sup>** For this time I will send all My plagues upon your own heart, and upon your servants and your people, so that you may know that there is no one like Me in all the earth. **<sup>15</sup>** For if I had stretched out My hand and struck you and your people with the plague, then you would have been cut off from the earth. **<sup>16</sup>** But for this very reason I have raised you up, in order to show you My power, and in order that My name might be proclaimed throughout all the earth. **<sup>17</sup>** Still, you exalt yourself against My people by not letting them go.
 
-**<sup>18</sup>** Behold, at this time tomorrow I will cause very heavy hail to fall, such as has not been in Egypt from the day it was founded until now. **<sup>19</sup>** And now, send word, bring your livestock and all that you have in the field into shelter. The hail will fall on every man and beast that is found in the field and is not brought indoors; it will fall on them, and they will die.”’” **<sup>20</sup>** Those among Pharaoh’s servants who feared the word of the Lord made their servants and livestock gather under shelter. **<sup>21</sup>** But those who did not pay attention to the word of the Lord left their servants and livestock in the field.
+**<sup>18</sup>** Behold, at this time tomorrow I will cause very heavy hail to fall, such as has not been in Egypt from the day it was founded until now. **<sup>19</sup>** And now, send word, bring your livestock and all that you have in the field into shelter. The hail will fall on every man and beast that is found in the field and is not brought indoors; it will fall on them, and they will die.”’” **<sup>20</sup>** Those among Pharaoh’s servants who feared the word of the LORD made their servants and livestock gather under shelter. **<sup>21</sup>** But those who did not pay attention to the word of the LORD left their servants and livestock in the field.
 
-**<sup>22</sup>** Then the Lord said to Moses, “Stretch out your hand toward the sky, so that hail may fall on all the land of Egypt, on man and beast and on every plant of the field throughout the land of Egypt.” **<sup>23</sup>** And Moses stretched out his staff toward the sky, and the Lord sent thunder and hail, and fire ran down to the earth. And the Lord rained hail on the land of Egypt. **<sup>24</sup>** So there was hail, and fire flashing continually in the midst of the hail, very severe, such as had never been in all the land of Egypt since it became a nation. **<sup>25</sup>** And the hail struck all that was in the field through all the land of Egypt, from man to beast; and the hail struck every plant of the field and shattered every tree of the field. **<sup>26</sup>** Only in the land of Goshen, where the sons of Israel were, there was no hail.
+**<sup>22</sup>** Then the LORD said to Moses, “Stretch out your hand toward the sky, so that hail may fall on all the land of Egypt, on man and beast and on every plant of the field throughout the land of Egypt.” **<sup>23</sup>** And Moses stretched out his staff toward the sky, and the LORD sent thunder and hail, and fire ran down to the earth. And the LORD rained hail on the land of Egypt. **<sup>24</sup>** So there was hail, and fire flashing continually in the midst of the hail, very severe, such as had never been in all the land of Egypt since it became a nation. **<sup>25</sup>** And the hail struck all that was in the field through all the land of Egypt, from man to beast; and the hail struck every plant of the field and shattered every tree of the field. **<sup>26</sup>** Only in the land of Goshen, where the sons of Israel were, there was no hail.
 
-**<sup>27</sup>** Then Pharaoh sent and called for Moses and Aaron and said to them, “I have sinned this time; the Lord is righteous, and I and my people are guilty. **<sup>28</sup>** Plead with the Lord, for there has been enough of God’s thunder and hail. I will send you out, and you shall stay no longer.” **<sup>29</sup>** And Moses said to him, “As soon as I go out of the city, I will spread out my hands to the Lord; the thunder will cease, and there will be no more hail, so that you may know that the earth belongs to the Lord. **<sup>30</sup>** But as for you and your servants, I know that you do not yet fear the Lord God.” **<sup>31</sup>** (Now the flax and the barley were ruined, for the barley was in the ear and the flax was in bloom. **<sup>32</sup>** But the wheat and the spelt were not ruined, for they ripen late.)
+**<sup>27</sup>** Then Pharaoh sent and called for Moses and Aaron and said to them, “I have sinned this time; the LORD is righteous, and I and my people are guilty. **<sup>28</sup>** Plead with the LORD, for there has been enough of God’s thunder and hail. I will send you out, and you shall stay no longer.” **<sup>29</sup>** And Moses said to him, “As soon as I go out of the city, I will spread out my hands to the LORD; the thunder will cease, and there will be no more hail, so that you may know that the earth belongs to the LORD. **<sup>30</sup>** But as for you and your servants, I know that you do not yet fear the LORD God.” **<sup>31</sup>** (Now the flax and the barley were ruined, for the barley was in the ear and the flax was in bloom. **<sup>32</sup>** But the wheat and the spelt were not ruined, for they ripen late.)
 
-**<sup>33</sup>** So Moses went out of the city from Pharaoh and spread out his hands to the Lord, and the thunder and the hail ceased, and rain no longer poured on the earth. **<sup>34</sup>** But when Pharaoh saw that the rain and the hail and the thunder had ceased, he sinned again and hardened his heart, both he and his servants. **<sup>35</sup>** So Pharaoh’s heart was hardened, and he did not let the sons of Israel go, just as the Lord had spoken through Moses. 
+**<sup>33</sup>** So Moses went out of the city from Pharaoh and spread out his hands to the LORD, and the thunder and the hail ceased, and rain no longer poured on the earth. **<sup>34</sup>** But when Pharaoh saw that the rain and the hail and the thunder had ceased, he sinned again and hardened his heart, both he and his servants. **<sup>35</sup>** So Pharaoh’s heart was hardened, and he did not let the sons of Israel go, just as the LORD had spoken through Moses. 
 
 ## Chapter 10
 
@@ -292,22 +292,22 @@ The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi; t
 
 ## Chapter 15
 
-**<sup>1</sup>** Then Moses and the sons of Israel sang this song to the Lord, saying:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;“I will sing to the Lord, for He is highly exalted;<br/>
+**<sup>1</sup>** Then Moses and the sons of Israel sang this song to the LORD, saying:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;“I will sing to the LORD, for He is highly exalted;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;The horse and its rider He has hurled into the sea.<br/>
 **<sup>2</sup>** The Lord is my strength and song,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;And He has become my salvation;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;This is my God, and I will praise Him,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;My father’s God, and I will exalt Him.<br/>
-**<sup>3</sup>** The Lord is a warrior;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;The Lord is His name.<br/>
+**<sup>3</sup>** The LORD is a warrior;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;The LORD is His name.<br/>
 **<sup>4</sup>** Pharaoh’s chariots and his army He cast into the sea,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;And his elite officers were drowned in the Red Sea.<br/>
 **<sup>5</sup>** The depths covered them;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;They went down into the depths like a stone.
 
-**<sup>6</sup>** Your right hand, O Lord, is majestic in power,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Your right hand, O Lord, shatters the enemy.<br/>
+**<sup>6</sup>** Your right hand, O LORD, is majestic in power,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Your right hand, O LORD, shatters the enemy.<br/>
 **<sup>7</sup>** In the greatness of Your majesty You overthrow those who rise up against You;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;You send forth Your burning anger—it consumes them like stubble.<br/>
 **<sup>8</sup>** At the blast of Your nostrils the waters were piled up,<br/>
@@ -320,7 +320,7 @@ The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi; t
 **<sup>10</sup>** But You blew with Your wind, and the sea covered them;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;They sank like lead into the mighty waters.
 
-**<sup>11</sup>** Who is like You among the gods, O Lord?<br/>
+**<sup>11</sup>** Who is like You among the gods, O LORD?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Who is like You, majestic in holiness,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Awesome in praises, working wonders?<br/>
 **<sup>12</sup>** You stretched out Your right hand,<br/>
@@ -335,22 +335,22 @@ The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi; t
 &nbsp;&nbsp;&nbsp;&nbsp;All the inhabitants of Canaan have melted away.<br/>
 **<sup>16</sup>** Terror and dread fall upon them;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;By the greatness of Your arm they are motionless as stone,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Until Your people pass through, O Lord,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Until Your people pass through, O LORD,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Until the people pass through whom You have purchased.<br/>
 **<sup>17</sup>** You will bring them and plant them in the mountain of Your inheritance,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;The place, O Lord, which You have made for Your dwelling,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;The place, O LORD, which You have made for Your dwelling,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;The sanctuary, O Lord, which Your hands have established.<br/>
-**<sup>18</sup>** The Lord shall reign forever and ever.”
+**<sup>18</sup>** The LORD shall reign forever and ever.”
 
-**<sup>19</sup>** For the horses of Pharaoh went with his chariots and with his horsemen into the sea, and the Lord brought back the waters of the sea upon them, but the sons of Israel walked on dry ground through the midst of the sea.
+**<sup>19</sup>** For the horses of Pharaoh went with his chariots and with his horsemen into the sea, and the LORD brought back the waters of the sea upon them, but the sons of Israel walked on dry ground through the midst of the sea.
 
 **<sup>20</sup>** Then Miriam the prophetess, the sister of Aaron, took the tambourine in her hand, and all the women went out after her with tambourines and with dancing. **<sup>21</sup>** Miriam answered them,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;“Sing to the Lord, for He is highly exalted;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;“Sing to the LORD, for He is highly exalted;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;The horse and its rider He has hurled into the sea.”
 
-**<sup>22</sup>** Then Moses led Israel from the Red Sea, and they went out into the Wilderness of Shur; and they went three days in the wilderness and found no water. **<sup>23</sup>** When they came to Marah, they could not drink the waters of Marah, for they were bitter; therefore it was named Marah. **<sup>24</sup>** So the people grumbled against Moses, saying, “What shall we drink?” **<sup>25</sup>** Then he cried out to the Lord, and the Lord showed him a tree; and he threw it into the waters, and the waters became sweet.
+**<sup>22</sup>** Then Moses led Israel from the Red Sea, and they went out into the Wilderness of Shur; and they went three days in the wilderness and found no water. **<sup>23</sup>** When they came to Marah, they could not drink the waters of Marah, for they were bitter; therefore it was named Marah. **<sup>24</sup>** So the people grumbled against Moses, saying, “What shall we drink?” **<sup>25</sup>** Then he cried out to the LORD, and the LORD showed him a tree; and he threw it into the waters, and the waters became sweet.
 
-There He made for them a statute and a regulation, and there He tested them.**<sup>26</sup>** And He said, “If you will diligently listen to the voice of the Lord your God, and do what is right in His eyes, and give ear to His commandments, and keep all His statutes, I will not bring upon you any of the diseases that I brought upon the Egyptians; for I am the Lord who heals you.”
+There He made for them a statute and a regulation, and there He tested them.**<sup>26</sup>** And He said, “If you will diligently listen to the voice of the LORD your God, and do what is right in His eyes, and give ear to His commandments, and keep all His statutes, I will not bring upon you any of the diseases that I brought upon the Egyptians; for I am the LORD who heals you.”
 
 **<sup>27</sup>** Then they came to Elim, where there were twelve springs of water and seventy date palms, and they encamped there beside the waters. 
 
@@ -400,15 +400,15 @@ There He made for them a statute and a regulation, and there He tested them.**<s
 
 ## Chapter 18
 
-**<sup>1</sup>** Now Jethro, the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel His people, how the Lord had brought Israel out of Egypt.
+**<sup>1</sup>** Now Jethro, the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel His people, how the LORD had brought Israel out of Egypt.
 
 **<sup>2</sup>** Then Jethro, Moses’ father-in-law, took Zipporah, Moses’ wife, after he had sent her away, **<sup>3</sup>** and her two sons—of whom one was named Gershom, for Moses said, “I have been a sojourner in a foreign land,” **<sup>4</sup>** and the other was named Eliezer, for he said, “The God of my father was my help, and He delivered me from the sword of Pharaoh.”
 
 **<sup>5</sup>** Then Jethro, Moses’ father-in-law, came with his sons and his wife to Moses in the wilderness where he was camped, at the mountain of God. **<sup>6</sup>** And he sent word to Moses: “I, your father-in-law Jethro, am coming to you with your wife and her two sons with her.”
 
-**<sup>7</sup>** So Moses went out to meet his father-in-law, and he bowed down and kissed him. They asked each other about their welfare and went into the tent. **<sup>8</sup>** Then Moses recounted to his father-in-law all that the Lord had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had befallen them on the journey, and how the Lord had delivered them.
+**<sup>7</sup>** So Moses went out to meet his father-in-law, and he bowed down and kissed him. They asked each other about their welfare and went into the tent. **<sup>8</sup>** Then Moses recounted to his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had befallen them on the journey, and how the LORD had delivered them.
 
-**<sup>9</sup>** Jethro rejoiced over all the goodness which the Lord had done for Israel, in delivering them from the hand of the Egyptians. **<sup>10</sup>** And Jethro said, “Blessed be the Lord, who delivered you from the hand of the Egyptians and from the hand of Pharaoh, and who delivered the people from under the hand of the Egyptians. **<sup>11</sup>** Now I know that the Lord is greater than all the gods; indeed, in the matter in which they dealt arrogantly against them, He was above them.”
+**<sup>9</sup>** Jethro rejoiced over all the goodness which the LORD had done for Israel, in delivering them from the hand of the Egyptians. **<sup>10</sup>** And Jethro said, “Blessed be the LORD, who delivered you from the hand of the Egyptians and from the hand of Pharaoh, and who delivered the people from under the hand of the Egyptians. **<sup>11</sup>** Now I know that the LORD is greater than all the gods; indeed, in the matter in which they dealt arrogantly against them, He was above them.”
 
 **<sup>12</sup>** Then Jethro, Moses’ father-in-law, took a burnt offering and sacrifices for God, and Aaron came with all the elders of Israel to eat bread with Moses’ father-in-law before God.
 
@@ -442,17 +442,17 @@ There He made for them a statute and a regulation, and there He tested them.**<s
 
 **<sup>1</sup>** Then God spoke all these words, saying,
 
-**<sup>2</sup>** “I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.
+**<sup>2</sup>** “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
 
 **<sup>3</sup>** You shall have no other gods before Me.
 
-**<sup>4</sup>** You shall not make for yourself a carved image, or any likeness of what is in heaven above or on the earth beneath or in the waters under the earth. **<sup>5</sup>** You shall not bow down to them or serve them; for I, the Lord your God, am a jealous God, visiting the iniquity of the fathers upon the sons, to the third and fourth generation of those who hate Me, **<sup>6</sup>** but showing steadfast love to thousands of those who love Me and keep My commandments.
+**<sup>4</sup>** You shall not make for yourself a carved image, or any likeness of what is in heaven above or on the earth beneath or in the waters under the earth. **<sup>5</sup>** You shall not bow down to them or serve them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the sons, to the third and fourth generation of those who hate Me, **<sup>6</sup>** but showing steadfast love to thousands of those who love Me and keep My commandments.
 
-**<sup>7</sup>** You shall not take up the name of the Lord your God in vain, for the Lord will not leave him unpunished who takes up His name in vain.
+**<sup>7</sup>** You shall not take up the name of the LORD your God in vain, for the LORD will not leave him unpunished who takes up His name in vain.
 
-**<sup>8</sup>** Remember the Sabbath day, to keep it holy. **<sup>9</sup>** Six days you shall labor and do all your work, **<sup>10</sup>** but the seventh day is the Sabbath of the Lord your God. On it you shall not do any work, you, your son or your daughter, your servant or your maid, your cattle, or the sojourner who is within your gates. **<sup>11</sup>** For in six days the Lord made the heavens and the earth, the sea, and all that is in them, but He rested on the seventh day; therefore the Lord blessed the Sabbath day and made it holy.
+**<sup>8</sup>** Remember the Sabbath day, to keep it holy. **<sup>9</sup>** Six days you shall labor and do all your work, **<sup>10</sup>** but the seventh day is the Sabbath of the LORD your God. On it you shall not do any work, you, your son or your daughter, your servant or your maid, your cattle, or the sojourner who is within your gates. **<sup>11</sup>** For in six days the LORD made the heavens and the earth, the sea, and all that is in them, but He rested on the seventh day; therefore the LORD blessed the Sabbath day and made it holy.
 
-**<sup>12</sup>** Honor your father and your mother, so that your days may be prolonged in the land that the Lord your God is giving you.
+**<sup>12</sup>** Honor your father and your mother, so that your days may be prolonged in the land that the LORD your God is giving you.
 
 **<sup>13</sup>** You shall not murder.
 
@@ -470,7 +470,7 @@ There He made for them a statute and a regulation, and there He tested them.**<s
 
 **<sup>21</sup>** So the people stood at a distance, while Moses approached the thick darkness where God was.
 
-**<sup>22</sup>** Then the Lord said to Moses, “Thus you shall say to the sons of Israel: ‘You have seen for yourselves that I have spoken to you from heaven. **<sup>23</sup>** You shall not make other gods alongside Me; gods of silver or gods of gold you shall not make for yourselves.
+**<sup>22</sup>** Then the LORD said to Moses, “Thus you shall say to the sons of Israel: ‘You have seen for yourselves that I have spoken to you from heaven. **<sup>23</sup>** You shall not make other gods alongside Me; gods of silver or gods of gold you shall not make for yourselves.
 
 **<sup>24</sup>** You shall make for Me an altar of earth, and you shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I cause My name to be remembered, I will come to you and bless you.
 

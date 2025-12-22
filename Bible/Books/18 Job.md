@@ -571,12 +571,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;And who does not know such things as these?
 
 **<sup>4</sup>** I am a laughingstock to my friends,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;I who called on GOD and He answered me—<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I who called on God and He answered me—<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;a just and blameless man, a laughingstock.<br/>
 **<sup>5</sup>** He who is at ease has contempt for calamity,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;thinking it is ready for those whose foot slips.<br/>
 **<sup>6</sup>** The tents of robbers are at peace,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and those who provoke GOD are secure,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and those who provoke God are secure,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;those who bring their god in their hand.
 
 **<sup>7</sup>** But ask the beasts, and they will teach you;<br/>
@@ -593,7 +593,7 @@
 **<sup>12</sup>** Wisdom is with the aged,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and understanding in length of days.
 
-**<sup>13</sup>** With GOD are wisdom and might;<br/>
+**<sup>13</sup>** With God are wisdom and might;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;He has counsel and understanding.<br/>
 **<sup>14</sup>** If He tears down, none can rebuild;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;if He shuts a man in, none can open.<br/>
@@ -630,7 +630,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I am not inferior to you.
 
 **<sup>3</sup>** But I would speak to the Almighty,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and I desire to argue my case with GOD.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and I desire to argue my case with God.<br/>
 **<sup>4</sup>** But you, you smear lies;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;you are all worthless physicians.<br/>
 **<sup>5</sup>** Oh that you would altogether be silent,<br/>
@@ -638,10 +638,10 @@
 
 **<sup>6</sup>** Hear now my argument,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and listen to the pleadings of my lips.<br/>
-**<sup>7</sup>** Will you speak unrighteously for GOD,<br/>
+**<sup>7</sup>** Will you speak unrighteously for God,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and speak deceitfully for Him?<br/>
 **<sup>8</sup>** Will you show partiality for Him?<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Will you contend for GOD?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Will you contend for God?<br/>
 **<sup>9</sup>** Will it be well when He searches you out?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Or can you deceive Him as one deceives a man?<br/>
 **<sup>10</sup>** He will surely reprove you<br/>
@@ -752,8 +752,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;and fill his belly with the east wind?<br/>
 **<sup>3</sup>** Should he reason with unprofitable talk,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;or with words that do no good?<br/>
-**<sup>4</sup>** Indeed, you do away with the fear of GOD,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and hinder meditation before GOD.<br/>
+**<sup>4</sup>** Indeed, you do away with the fear of God,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and hinder meditation before God.<br/>
 **<sup>5</sup>** For your iniquity teaches your mouth,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and you choose the tongue of the crafty.<br/>
 **<sup>6</sup>** Your own mouth condemns you, and not I;<br/>
@@ -761,17 +761,17 @@
 
 **<sup>7</sup>** Were you the first man born?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Or were you brought forth before the hills?<br/>
-**<sup>8</sup>** Have you listened in the council of GOD?<br/>
+**<sup>8</sup>** Have you listened in the council of God?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;And do you limit wisdom to yourself?<br/>
 **<sup>9</sup>** What do you know that we do not know?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;What do you understand that is not with us?<br/>
 **<sup>10</sup>** Both the gray-haired and the aged are among us,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;older than your father.<br/>
-**<sup>11</sup>** Are the consolations of GOD too small for you,<br/>
+**<sup>11</sup>** Are the consolations of God too small for you,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;or the word spoken gently to you?<br/>
 **<sup>12</sup>** Why does your heart carry you away,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and why do your eyes flash,<br/>
-**<sup>13</sup>** that you turn your spirit against GOD,<br/>
+**<sup>13</sup>** that you turn your spirit against God,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and let such words go out of your mouth?
 
 **<sup>14</sup>** What is man, that he should be pure,<br/>
@@ -798,7 +798,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;He knows that the day of darkness is ready at his hand.<br/>
 **<sup>24</sup>** Distress and anguish terrify him;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;they prevail against him like a king ready for battle.<br/>
-**<sup>25</sup>** For he has stretched out his hand against GOD,<br/>
+**<sup>25</sup>** For he has stretched out his hand against God,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and behaved proudly against the Almighty,<br/>
 **<sup>26</sup>** running stubbornly against Him<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;with his thickly bossed shields.
@@ -851,7 +851,7 @@
 **<sup>10</sup>** They gape at me with their mouths;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;they strike me on the cheek with reproach;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;they mass themselves together against me.<br/>
-**<sup>11</sup>** GOD delivers me to the ungodly,<br/>
+**<sup>11</sup>** God delivers me to the ungodly,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and casts me into the hands of the wicked.
 
 **<sup>12</sup>** I was at ease, and He shattered me;<br/>
@@ -861,8 +861,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;He pierces my kidneys without pity;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;He pours out my gall on the ground.<br/>
 **<sup>14</sup>** He breaks me with breach upon breach;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;He runs at me like a warrior.
-
+&nbsp;&nbsp;&nbsp;&nbsp;He runs at me like a warrior.<br/>
 **<sup>15</sup>** I have sewed sackcloth upon my skin,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and thrust my horn into the dust.<br/>
 **<sup>16</sup>** My face is red with weeping,<br/>
@@ -875,8 +874,8 @@
 **<sup>19</sup>** Even now, behold, my witness is in heaven,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and He who testifies for me is on high.<br/>
 **<sup>20</sup>** My friends scorn me;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;my eyes pour out tears to GOD,<br/>
-**<sup>21</sup>** that one might plead for a man with GOD,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;my eyes pour out tears to God,<br/>
+**<sup>21</sup>** that one might plead for a man with God,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;as a man pleads for his neighbor.<br/>
 **<sup>22</sup>** For when a few years have come,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I shall go the way from which I shall not return.”<br/>
@@ -966,7 +965,7 @@
 **<sup>20</sup>** Those in the west are appalled at his fate,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and those in the east are seized with horror.<br/>
 **<sup>21</sup>** Surely such are the dwellings of the wicked,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and this is the place of him who does not know GOD.”<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and this is the place of him who does not know God.”<br/>
 
 
 ## Chapter 19
@@ -1316,7 +1315,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;they tread the winepresses, yet suffer thirst.<br/>
 **<sup>12</sup>** From the city men groan,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and the soul of the wounded cries out,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;yet GOD charges no one with wrongdoing.
+&nbsp;&nbsp;&nbsp;&nbsp;yet God charges no one with wrongdoing.
 
 **<sup>13</sup>** These are among those who rebel against the light;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;they do not acknowledge its ways,<br/>
@@ -1361,7 +1360,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;He makes peace in His high places.<br/>
 **<sup>3</sup>** Is there any number to His armies?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;And upon whom does His light not rise?<br/>
-**<sup>4</sup>** How then can man be righteous with GOD?<br/>
+**<sup>4</sup>** How then can man be righteous with God?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Or how can one born of woman be pure?<br/>
 **<sup>5</sup>** Look, even the moon does not shine brightly,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and the stars are not pure in His eyes;<br/>
@@ -1651,7 +1650,7 @@
 
 **<sup>1</sup>** “I made a covenant with my eyes;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;how then could I gaze upon a virgin?<br/>
-**<sup>2</sup>** For what would be my portion from GOD above,<br/>
+**<sup>2</sup>** For what would be my portion from God above,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and my inheritance from the Almighty on high?<br/>
 **<sup>3</sup>** Is not calamity for the wicked,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and disaster for the workers of iniquity?<br/>
@@ -1661,7 +1660,7 @@
 **<sup>5</sup>** If I have walked with falsehood,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and my foot has hurried to deceit,<br/>
 **<sup>6</sup>** let Him weigh me in a just balance,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and GOD will know my integrity.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and God will know my integrity.<br/>
 **<sup>7</sup>** If my steps have turned from the way,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;or my heart has gone after my eyes,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;or a stain has clung to my hands,<br/>
@@ -1679,7 +1678,7 @@
 
 **<sup>13</sup>** If I have rejected the cause of my servant or my maid<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;when they brought a complaint against me,<br/>
-**<sup>14</sup>** what then shall I do when GOD rises up?<br/>
+**<sup>14</sup>** what then shall I do when God rises up?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;And when He calls me to account, what shall I answer Him?<br/>
 **<sup>15</sup>** Did not He who made me in the womb make him?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;And did not the same One form us in the belly?
@@ -1698,7 +1697,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;because I saw my help in the gate,<br/>
 **<sup>22</sup>** then let my shoulder fall from its joint,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and my arm be broken from the bone.<br/>
-**<sup>23</sup>** For destruction from GOD was a terror to me,<br/>
+**<sup>23</sup>** For destruction from God was a terror to me,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and because of His majesty I could not do such things.
 
 **<sup>24</sup>** If I have made gold my trust<br/>
@@ -1710,7 +1709,7 @@
 **<sup>27</sup>** and my heart was secretly enticed<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and my hand kissed my mouth,<br/>
 **<sup>28</sup>** this also would be a crime for judges to punish,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;for I would have denied GOD above.
+&nbsp;&nbsp;&nbsp;&nbsp;for I would have denied God above.
 
 **<sup>29</sup>** If I have rejoiced at the ruin of him who hated me,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;or exulted when evil found him—<br/>
@@ -1749,7 +1748,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;because he was righteous in his own eyes.<br/>
 **<sup>2</sup>** Then the anger of Elihu son of Barakel the Buzite,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;of the family of Ram, burned against Job;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;his anger burned because he justified himself rather than GOD.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;his anger burned because he justified himself rather than God.<br/>
 **<sup>3</sup>** And his anger burned against his three friends as well,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;because they had found no answer<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and yet had condemned Job.<br/>
@@ -1779,7 +1778,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;but there was none who proved Job wrong,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;none who answered his words.<br/>
 **<sup>13</sup>** Do not say, ‘We have found wisdom;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;GOD will defeat him, not man.’<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;God will defeat him, not man.’<br/>
 **<sup>14</sup>** But he has not directed his argument against me,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;nor will I answer him with your speeches.
 
@@ -1809,7 +1808,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;my tongue speaks in my mouth.<br/>
 **<sup>3</sup>** My words come from an upright heart,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and my lips sincerely declare what they know.<br/>
-**<sup>4</sup>** The Spirit of GOD has made me,<br/>
+**<sup>4</sup>** The Spirit of God has made me,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and the breath of the Almighty gives me life.<br/>
 **<sup>5</sup>** Answer me if you can;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;set your words in order before me; take your stand.<br/>
@@ -1826,10 +1825,10 @@
 **<sup>11</sup>** He puts my feet in the stocks;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;He watches all my paths.’<br/>
 **<sup>12</sup>** Surely this is not right—I will answer you,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;for GOD is greater than man.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;for God is greater than man.<br/>
 **<sup>13</sup>** Why do you contend with Him,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;saying He gives no answer concerning His matters?<br/>
-**<sup>14</sup>** For GOD speaks in one way, and in another,<br/>
+**<sup>14</sup>** For God speaks in one way, and in another,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;yet man does not perceive it.<br/>
 **<sup>15</sup>** In a dream, a vision of the night,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;when deep sleep falls upon men<br/>
@@ -1856,7 +1855,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I have found a ransom.’<br/>
 **<sup>25</sup>** His flesh shall be fresher than in youth;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;he shall return to the days of his vigor.<br/>
-**<sup>26</sup>** He shall pray to GOD, and He will accept him;<br/>
+**<sup>26</sup>** He shall pray to God, and He will accept him;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;he shall see His face with joy,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and He restores to man his righteousness.<br/>
 **<sup>27</sup>** He will sing before men and say,<br/>
@@ -1864,7 +1863,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;and it was not repaid to me.<br/>
 **<sup>28</sup>** He redeemed my soul from passing into the pit,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and my life sees the light.’<br/>
-**<sup>29</sup>** Look, GOD does all these things<br/>
+**<sup>29</sup>** Look, God does all these things<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;twice, even three times with a man,<br/>
 **<sup>30</sup>** to bring back his soul from the pit,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;that he may be lighted with the light of life.<br/>
