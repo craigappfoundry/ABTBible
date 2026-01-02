@@ -2681,17 +2681,17 @@ But I say, “I waste away! I waste away! Woe is me!<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;a path in the mighty waters,<br/>
 **<sup>17</sup>** who brings forth chariot and horse,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;army and warrior;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;they lie down, they cannot rise,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;they are extinguished, quenched like a wick:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;they lie down, to rise no more,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;they are extinguished, snuffed out like a wick:<br/>
 **<sup>18</sup>** "Do not remember the former things,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;nor consider the things of old.<br/>
-**<sup>19</sup>** Behold, I am doing a new thing;<br/>
+**<sup>19</sup>** See, I am doing a new thing;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;now it springs forth—do you not perceive it?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I will make a way in the wilderness<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and rivers in the desert.<br/>
-**<sup>20</sup>** The wild beasts will honor Me,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;the jackals and the ostriches,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;for I give water in the wilderness,<br/>
+**<sup>20</sup>** Wild animals will honor Me;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;jackals and ostriches;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;for I send water into the wilderness,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;rivers in the desert,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;to give drink to My chosen people,<br/>
 **<sup>21</sup>** the people whom I formed for Myself,<br/>

@@ -16,7 +16,7 @@
 
 **<sup>19</sup>** Know this, my beloved brothers: let every man be quick to hear, slow to speak, slow to anger, **<sup>20</sup>** for the anger of man does not produce the righteousness of God. **<sup>21</sup>** Therefore, put away all filthiness and the overflow of wickedness, and receive with meekness the implanted word, which is able to save your souls.
 
-**<sup>22</sup>** But be doers of the word, and not hearers only, deceiving yourselves. **<sup>23</sup>** For if anyone is a hearer of the word and not a doer, he is like a man who looks at his natural face in a mirror. **<sup>24</sup>** For he looks at himself and goes away and immediately forgets what he was like. **<sup>25</sup>** But the one who looks into the perfect law, the law of liberty, and continues in it—not being a forgetful hearer but a doer who acts—he will be blessed in his doing.
+**<sup>22</sup>** But be doers of the word, and not hearers only, deceiving yourselves. **<sup>23</sup>** For if anyone is a hearer of the word and not a doer, he is like a man who looks at his natural face in a mirror. **<sup>24</sup>** For he looks at himself and goes away and immediately forgets what he was like. **<sup>25</sup>** But the one who looks into the perfect law, the law of liberty, and continues doing it—not being a forgetful hearer but a doer who acts—he will be blessed in all he does.
 
 **<sup>26</sup>** If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this man’s religion is worthless. **<sup>27</sup>** Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their distress, and to keep oneself unstained from the world. 
 

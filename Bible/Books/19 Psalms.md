@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;its leaf does not wither;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and he prospers in all that he does.
 
-**<sup>4</sup>** The wicked are not so,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;rather, they are like chaff driven away by the wind.<br/>
+**<sup>4</sup>** The wicked are not so.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Rather, they are like chaff driven away by the wind.<br/>
 **<sup>5</sup>** Therefore the wicked will not stand on the day of judgment,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;nor sinners in the congregation of the righteous.<br/>
 **<sup>6</sup>** For the Lord knows the way of the righteous,<br/>
@@ -5327,8 +5327,8 @@ Because they do not change<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Or where can I flee from your presence?<br/>
 **<sup>8</sup>** If I ascend to the heavens, you are there;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;if I make my bed in the grave, you are there.<br/>
-**<sup>9</sup>** If I lift up the wings of the dawn,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;if I dwell at the farthest end of the sea,<br/>
+**<sup>9</sup>** If I rise up on the wings of the dawn,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;or dwell at the farthest end of the sea,<br/>
 **<sup>10</sup>** even there your hand will lead me,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and your right hand will take hold of me.<br/>
 **<sup>11</sup>** And if I say, “Surely darkness will cover me,”<br/>
@@ -5370,7 +5370,41 @@ Because they do not change<br/>
 
 ## Chapter 140
 
-**<sup>1</sup>** Deliver me, O LORD, from an evil man; preserve me from a violent man. **<sup>2</sup>** Who think up evil in their heart all day; war is in their hearts when they dwell. **<sup>3</sup>** Their tongue is sharp as a serpent’s; the venom of a viper lies under their lips. Selah **<sup>4</sup>** Keep me, LORD, from the hands of the wicked; preserve me from violent men who have purposed to make my feet slip. **<sup>5</sup>** The arrogant have set a trap for me; with ropes they spread a net by the path; they have hidden snares for me. Selah **<sup>6</sup>** I said to the LORD, “You are my God; listen to the voice of my supplication, LORD.” **<sup>7</sup>** O LORD God, the strength of my salvation, you cover my head in the day of battle. **<sup>8</sup>** Do not grant, LORD, the desires of the wicked; do not let their evil plan succeed, or they will be exalted. Selah **<sup>9</sup>** Let the mischief of their lips cover those who surround me. **<sup>10</sup>** Let burning coals fall upon them; let them be thrown into the fire; into deep pits, that they rise not up again. **<sup>11</sup>** A slanderer shall not be established in the land; the violent and wicked man shall be hunted with thrust upon thrust. **<sup>12</sup>** I know that the LORD will maintain the cause of the afflicted, and the right of the needy. **<sup>13</sup>** Surely the righteous will give thanks to your name; the upright will dwell in your presence. 
+**<sup>1</sup>** Deliver me, O LORD, from an evil man;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;preserve me from a violent man<br/>
+**<sup>2</sup>** who thinks up evil in his heart;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;all day long they assemble for war.<br/>
+**<sup>3</sup>** Their tongue is sharp as a serpent’s;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;the venom of a viper lies under their lips. Selah
+
+**<sup>4</sup>** Keep me, LORD, from the hands of the wicked;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;preserve me from violent men<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;who plot to make my feet slip.<br/>
+**<sup>5</sup>** The arrogant have set a trap for me with ropes,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;spreading a net by the path;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;they have hidden snares for me. Selah
+
+**<sup>6</sup>** I said to the LORD, “You are my God;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;listen, O LORD, to the voice of my supplication.”<br/>
+**<sup>7</sup>** O LORD, my God and strength of my salvation,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;you cover my head in the day of battle.<br/>
+**<sup>8</sup>** Do not grant, LORD, the desires of the wicked;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;do not let their evil plan succeed,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;or they will be exalted. Selah
+
+**<sup>9</sup>** May the leaders of those who surround me<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;be covered by the perverseness of their own words.<br/>
+**<sup>10</sup>** Let burning coals fall upon them;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;let them be thrown into the fire—<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;into deep pits, that they rise not up again.<br/>
+**<sup>11</sup>** A slanderer shall not be established in the land;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;the violent and wicked man shall be hunted to his destruction.<br/>
+**<sup>12</sup>** I know that the LORD will maintain<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;the cause of the afflicted,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and the rights of the needy.<br/>
+**<sup>13</sup>** Surely the righteous will give thanks to Your name;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;the upright will dwell in Your presence.<br/>
+
 
 ## Chapter 141
 
@@ -5383,15 +5417,17 @@ Because they do not change<br/>
 **<sup>4</sup>** Do not let my heart incline to an evil thing,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;to practice wicked deeds with wicked men;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and let me not eat of their delicacies.<br/>
-**<sup>5</sup>** Let a righteous man strike me—it is kindness;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;let him rebuke me—it is oil on my head; let my head not refuse it.<br/>
+**<sup>5</sup>** Let a righteous man strike me—it is kindness: let him rebuke me—<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;it is oil on my head; let my head not refuse it.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Yet my prayer is still against their evil deeds.<br/>
 **<sup>6</sup>** When their judges are thrown down beside rocky cliffs,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;they will hear my words, for they are pleasant.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;they will hear my words,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;for they are pleasant.<br/>
 **<sup>7</sup>** As when one plows and breaks up the earth,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;so our bones are scattered at the mouth of the grave.<br/>
 **<sup>8</sup>** But my eyes are toward you, O LORD, my Lord;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;in you I seek refuge—do not leave my soul exposed.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;in you I seek refuge—<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;do not leave my life exposed.<br/>
 **<sup>9</sup>** Keep me from the trap they have set for me,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;from the snares of workers of wickedness.<br/>
 **<sup>10</sup>** Let the wicked fall into their own nets together, while I pass by safely. 
@@ -5408,15 +5444,15 @@ Because they do not change<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;they have hidden a trap for me.<br/>
 **<sup>4</sup>** Look to my right and see—<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;there is no one who acknowledges me;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;refuge has vanished from me;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;no one seeks my soul.
+&nbsp;&nbsp;&nbsp;&nbsp;I have no more refuge;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and no one inquires after my well-being.
 
 **<sup>5</sup>** I cry to you, LORD;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I say, “You are my refuge,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;my portion in the land of the living.”<br/>
 **<sup>6</sup>** Listen to my cry,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;for I am brought very low;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;rescue me from those who pursue me,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;rescue me from my pursuers,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;for they are too strong for me.<br/>
 **<sup>7</sup>** Bring my soul out of the prison,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;that I may give thanks to your name;<br/>
@@ -5611,7 +5647,7 @@ Because they do not change<br/>
 **<sup>9</sup>** He gives food to the beasts,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and to the young ravens when they cry.<br/>
 **<sup>10</sup>** He does not delight in the strength of the horse;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;he takes no pleasure in the legs of a man.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;nor takes pleasure in how strong a man's legs are.<br/>
 **<sup>11</sup>** The LORD takes pleasure in those who fear him,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;in those who hope in his steadfast love.
 
@@ -5651,7 +5687,7 @@ Because they do not change<br/>
 **<sup>6</sup>** And he established them forever and ever;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;he gave a decree, and it will not pass away.<br/>
 **<sup>7</sup>** Praise the LORD from the earth,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;you sea monsters and all deeps;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;you sea monsters and all in the depths;<br/>
 **<sup>8</sup>** fire and hail, snow and mist,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;stormy wind executing his word;<br/>
 **<sup>9</sup>** mountains and all hills,<br/>

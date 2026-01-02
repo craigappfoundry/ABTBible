@@ -1379,18 +1379,18 @@
 ## Chapter 30
 
 **<sup>1</sup>** The words of Agur son of Jakeh—the utterance:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;The man declares to Ithiel, to Ithiel and Ucal:
+&nbsp;&nbsp;&nbsp;&nbsp;The man declares "I am weary, O God, I am weary and tired."
 
 **<sup>2</sup>** Surely I am more brutish than any man,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and I do not have a man’s understanding.<br/>
 **<sup>3</sup>** I have not learned wisdom,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;nor do I know the knowledge of the Holy One.
 
-**<sup>4</sup>** Who has gone up to heaven and come down?<br/>
+**<sup>4</sup>** Who has gone up to heaven and come back down?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Who has gathered the wind in his fists?<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Who has wrapped the waters in a garment?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Who has wrapped the seas in a garment?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Who has established all the ends of the earth?<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;What is his name, and what is his son’s name? You know.
+&nbsp;&nbsp;&nbsp;&nbsp;What is his name, and what is his son’s name? Don't you know?
 
 **<sup>5</sup>** Every word of God is refined;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;he is a shield to those who take refuge in him.<br/>
@@ -1448,7 +1448,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;and under four it cannot bear up:<br/>
 **<sup>22</sup>** under a servant when he becomes king,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and a fool when he is satisfied with food,<br/>
-**<sup>23</sup>** under a hated woman when she is married,<br/>
+**<sup>23</sup>** under a hated woman when she gets a husband,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and a maidservant when she displaces her mistress.
 
 **<sup>24</sup>** Four things on the earth are small,<br/>
@@ -1479,12 +1479,9 @@
 
 ## Chapter 31
 
-**<sup>1</sup>** The words of Lemuel, king—the utterance<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;that his mother taught him:
-
-**<sup>2</sup>** What, my son?<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;And what, son of my womb?<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;And what, son of my vows?<br/>
+**<sup>1</sup>** The words of King Lemuel, wisdom that his mother taught him: **<sup>2</sup>** My son, son of my womb,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;son of my vows:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;what are you doing?<br/>
 **<sup>3</sup>** Do not give your strength to women,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;nor your ways to those who destroy kings.
 
@@ -1523,7 +1520,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;from the fruit of her hands she plants a vineyard.<br/>
 **<sup>17</sup>** She girds her waist with strength<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and makes her arms strong.<br/>
-**<sup>18</sup>** She perceives that her merchandise is good;<br/>
+**<sup>18</sup>** She perceives that her profit is good;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;her lamp does not go out at night.<br/>
 **<sup>19</sup>** She stretches out her hands to the distaff,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;and her palms grasp the spindle.
