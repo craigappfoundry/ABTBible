@@ -1,24 +1,18 @@
-{
-	"reading_plan": {
-		"version": 2,
-		"updated": "2026-01-01T23:23:00Z"
-	},
-	"bibles": [
-		{
-			"code": "ABT",
-			"name": "Allyn's Bible Translation",
-			"size": 1417474,
-			"crc": "e8055a20",
-			"version": 7,
-			"updated": "2026-01-01T22:15:00Z"
-		},
-		{
-			"code": "BSB",
-			"name": "Berean Study Bible",
-			"size": 1436067,
-			"crc": "a8232d24",
-			"version": 1,
-			"updated": "2025-11-23T14:53:00Z"
-		}
-	]
-}
+[
+    {
+        "code": "ABT",
+        "name": "Allyn's Bible Translation",
+        "size": "1417474",
+        "crc": "e8055a20",
+        "version": "7",
+		"updated": "2026-01-01T22:15:00Z"
+    },
+    {
+        "code": "BSB",
+        "name": "Berean Study Bible",
+        "size": "1436067",
+        "crc": "a8232d24",
+        "version": "1",
+		"updated": "2025-11-23T14:53:00Z"
+    }
+]
