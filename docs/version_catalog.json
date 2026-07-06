@@ -151,6 +151,48 @@
         }
     },
     {
+        "abbreviation": "NJB",
+        "name": "新改訳聖書 第三版, New Japanese Bible - Shinkai-yaku, 2003",
+        "languageCode": "ja",
+        "languageName": "Japanese",
+        "sources": {
+            "api": {
+                "provider": "bolls.life",
+                "parameters": {
+                    "VERSIONID": "NJB"
+                }
+            }
+        }
+    },
+    {
+        "abbreviation": "JPNICT",
+        "name": "新共同訳聖書, Japanese New Interconfessional Translation Bible - Shinkyodo-yaku, 1987",
+        "languageCode": "ja",
+        "languageName": "Japanese",
+        "sources": {
+            "api": {
+                "provider": "bolls.life",
+                "parameters": {
+                    "VERSIONID": "JPNICT"
+                }
+            }
+        }
+    },
+    {
+        "abbreviation": "JPKJV",
+        "name": "口語訳聖書(ルビあり), Colloquial Japanese - Kougo-yaku, 1954/1955",
+        "languageCode": "ja",
+        "languageName": "Japanese",
+        "sources": {
+            "api": {
+                "provider": "bolls.life",
+                "parameters": {
+                    "VERSIONID": "JPKJV"
+                }
+            }
+        }
+    },
+    {
         "abbreviation": "BW",
         "name": "Biblia Warszawska, 1975",
         "languageCode": "po",
